@@ -2,12 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on NVIDIA Toronto AI Lab</title>
-    <link>/author/</link>
+    <link>https://nv-tlabs.github.io/author/</link>
     <description>Recent content in Authors on NVIDIA Toronto AI Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
     
-	<atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nv-tlabs.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

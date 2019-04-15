@@ -1,10 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NVIDIA Toronto AI Lab on NVIDIA Toronto AI Lab</title>
-    <link>/</link>
+    <link>https://nv-tlabs.github.io/</link>
     <description>Recent content in NVIDIA Toronto AI Lab on NVIDIA Toronto AI Lab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
   </channel>
