@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
-    <lastBuildDate>Tue, 16 Apr 2019 10:21:59 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 10:21:59 -0400</lastBuildDate>
     
 	<atom:link href="https://nv-tlabs.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,27 +15,135 @@
     <item>
       <title>Amlan Kar</title>
       <link>https://nv-tlabs.github.io/authors/amlan-kar/</link>
-      <pubDate>Tue, 16 Apr 2019 10:21:59 -0400</pubDate>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
       
       <guid>https://nv-tlabs.github.io/authors/amlan-kar/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Antonio Torralba</title>
+      <link>https://nv-tlabs.github.io/authors/antonio-torralba/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/antonio-torralba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daiqing Li</title>
+      <link>https://nv-tlabs.github.io/authors/daiqing-li/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/daiqing-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>David Acuna</title>
       <link>https://nv-tlabs.github.io/authors/david-acuna/</link>
-      <pubDate>Tue, 16 Apr 2019 10:21:59 -0400</pubDate>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
       
       <guid>https://nv-tlabs.github.io/authors/david-acuna/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Hang Chu</title>
+      <link>https://nv-tlabs.github.io/authors/hang-chu/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/hang-chu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Shugrina</title>
+      <link>https://nv-tlabs.github.io/authors/maria-shugrina/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/maria-shugrina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ming-Yu Liu</title>
+      <link>https://nv-tlabs.github.io/authors/ming-yu-liu/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/ming-yu-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sanja Fidler</title>
       <link>https://nv-tlabs.github.io/authors/sanja-fidler/</link>
-      <pubDate>Tue, 16 Apr 2019 10:21:59 -0400</pubDate>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
       
       <guid>https://nv-tlabs.github.io/authors/sanja-fidler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinkai Wei</title>
+      <link>https://nv-tlabs.github.io/authors/xinkai-wei/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/xinkai-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aayush Prakash</title>
+      <link>https://nv-tlabs.github.io/authors/aayush-prakash/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/aayush-prakash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Cameracci</title>
+      <link>https://nv-tlabs.github.io/authors/eric-cameracci/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/eric-cameracci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justin Yuan</title>
+      <link>https://nv-tlabs.github.io/authors/justin-yuan/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/justin-yuan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matt Rusiniak</title>
+      <link>https://nv-tlabs.github.io/authors/matt-rusiniak/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/matt-rusiniak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towaki Takikawa</title>
+      <link>https://nv-tlabs.github.io/authors/towaki-takikawa/</link>
+      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/towaki-takikawa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Varun Jampani</title>
+      <link>https://nv-tlabs.github.io/authors/varun-jampani/</link>
+      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/varun-jampani/</guid>
       <description></description>
     </item>
     

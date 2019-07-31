@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
-    <lastBuildDate>Tue, 16 Apr 2019 10:21:59 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2019 10:21:59 -0400</lastBuildDate>
     
 	<atom:link href="https://nv-tlabs.github.io/authors/sanja-fidler/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Neural Turtle Graphics for Modeling City Road Layouts</title>
+      <link>https://nv-tlabs.github.io/publication/ntg/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/publication/ntg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Sim: Learning to Generate Synthetic Datasets</title>
+      <link>https://nv-tlabs.github.io/publication/meta_sim/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/publication/meta_sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated-SCNN Gated Shape CNNs for Semantic Segmentation</title>
+      <link>https://nv-tlabs.github.io/publication/gscnn/</link>
+      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/publication/gscnn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations</title>
