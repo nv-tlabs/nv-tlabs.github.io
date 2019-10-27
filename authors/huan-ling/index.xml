@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Huan Ling on NVIDIA Toronto AI Lab</title>
+    <link>https://nv-tlabs.github.io/authors/huan-ling/</link>
+    <description>Recent content in Huan Ling on NVIDIA Toronto AI Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
+    <lastBuildDate>Fri, 16 Aug 2019 10:21:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://nv-tlabs.github.io/authors/huan-ling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer</title>
+      <link>https://nv-tlabs.github.io/publication/dib-r/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/publication/dib-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

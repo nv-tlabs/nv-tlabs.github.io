@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on NVIDIA Toronto AI Lab</title>
@@ -7,10 +7,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
-    <lastBuildDate>Wed, 31 Jul 2019 10:21:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 10:21:59 -0400</lastBuildDate>
     
 	<atom:link href="https://nv-tlabs.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Alec Jacobson</title>
+      <link>https://nv-tlabs.github.io/authors/alec-jacobson/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/alec-jacobson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward J. Smith</title>
+      <link>https://nv-tlabs.github.io/authors/edward-j.-smith/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/edward-j.-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huan Ling</title>
+      <link>https://nv-tlabs.github.io/authors/huan-ling/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/huan-ling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jaakko Lehtinen</title>
+      <link>https://nv-tlabs.github.io/authors/jaakko-lehtinen/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/jaakko-lehtinen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jun Gao</title>
+      <link>https://nv-tlabs.github.io/authors/jun-gao/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/jun-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanja Fidler</title>
+      <link>https://nv-tlabs.github.io/authors/sanja-fidler/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/sanja-fidler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wenzheng Chen</title>
+      <link>https://nv-tlabs.github.io/authors/wenzheng-chen/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/wenzheng-chen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Amlan Kar</title>
@@ -76,15 +139,6 @@
     </item>
     
     <item>
-      <title>Sanja Fidler</title>
-      <link>https://nv-tlabs.github.io/authors/sanja-fidler/</link>
-      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
-      
-      <guid>https://nv-tlabs.github.io/authors/sanja-fidler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Xinkai Wei</title>
       <link>https://nv-tlabs.github.io/authors/xinkai-wei/</link>
       <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
@@ -144,15 +198,6 @@
       <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
       
       <guid>https://nv-tlabs.github.io/authors/varun-jampani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>https://nv-tlabs.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nv-tlabs.github.io/authors/admin/</guid>
       <description></description>
     </item>
     
