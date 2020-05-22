@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on NVIDIA Toronto AI Lab</title>
@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
-    <lastBuildDate>Fri, 16 Aug 2019 10:21:59 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2020 10:21:59 -0400</lastBuildDate>
     
 	<atom:link href="https://nv-tlabs.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Antonio Torralba</title>
+      <link>https://nv-tlabs.github.io/authors/antonio-torralba/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/antonio-torralba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jonah Philion</title>
+      <link>https://nv-tlabs.github.io/authors/jonah-philion/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/jonah-philion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanja Fidler</title>
+      <link>https://nv-tlabs.github.io/authors/sanja-fidler/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/sanja-fidler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seung Wook Kim</title>
+      <link>https://nv-tlabs.github.io/authors/seung-wook-kim/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/seung-wook-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuhao Zhou</title>
+      <link>https://nv-tlabs.github.io/authors/yuhao-zhou/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      
+      <guid>https://nv-tlabs.github.io/authors/yuhao-zhou/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Alec Jacobson</title>
@@ -58,15 +103,6 @@
     </item>
     
     <item>
-      <title>Sanja Fidler</title>
-      <link>https://nv-tlabs.github.io/authors/sanja-fidler/</link>
-      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
-      
-      <guid>https://nv-tlabs.github.io/authors/sanja-fidler/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wenzheng Chen</title>
       <link>https://nv-tlabs.github.io/authors/wenzheng-chen/</link>
       <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
@@ -81,15 +117,6 @@
       <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
       
       <guid>https://nv-tlabs.github.io/authors/amlan-kar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antonio Torralba</title>
-      <link>https://nv-tlabs.github.io/authors/antonio-torralba/</link>
-      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
-      
-      <guid>https://nv-tlabs.github.io/authors/antonio-torralba/</guid>
       <description></description>
     </item>
     
