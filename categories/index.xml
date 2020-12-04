@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on NVIDIA Toronto AI Lab</title>
-    <link>https://nv-tlabs.github.io/categories/</link>
-    <description>Recent content in Categories on NVIDIA Toronto AI Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
-    
-	<atom:link href="https://nv-tlabs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Categories | NVIDIA Toronto AI Lab</title>
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 01:33:07 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
     
   </channel>
 </rss>

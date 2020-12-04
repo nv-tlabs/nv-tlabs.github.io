@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Vision | NVIDIA Toronto AI Lab</title>
+    <link>/category/computer-vision/</link>
+      <atom:link href="/category/computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>Computer Vision</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Oct 2020 01:33:07 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Computer Vision</title>
+      <link>/category/computer-vision/</link>
+    </image>
+    
+    <item>
+      <title>UniCon: Universal Neural Controller For Physics-based Character Motion</title>
+      <link>/publication/unicon/</link>
+      <pubDate>Thu, 15 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/unicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research</title>
+      <link>/publication/kaolin/</link>
+      <pubDate>Wed, 14 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/kaolin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Amodal Object Completion</title>
+      <link>/publication/variational_amodal_object_completion/</link>
+      <pubDate>Tue, 13 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/variational_amodal_object_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Deformable Tetrahedral Meshes for 3D Reconstruction</title>
+      <link>/publication/def-tet/</link>
+      <pubDate>Fri, 02 Oct 2020 11:09:21 -0400</pubDate>
+      <guid>/publication/def-tet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation</title>
+      <link>/publication/metasim2/</link>
+      <pubDate>Sat, 05 Sep 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/metasim2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D</title>
+      <link>/publication/lift-splat-shoot/</link>
+      <pubDate>Fri, 04 Sep 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/lift-splat-shoot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

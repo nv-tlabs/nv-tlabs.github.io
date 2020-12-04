@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krishna Murthy Jatavallabhula | NVIDIA Toronto AI Lab</title>
+    <link>/author/krishna-murthy-jatavallabhula/</link>
+      <atom:link href="/author/krishna-murthy-jatavallabhula/index.xml" rel="self" type="application/rss+xml" />
+    <description>Krishna Murthy Jatavallabhula</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 01:33:07 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Krishna Murthy Jatavallabhula</title>
+      <link>/author/krishna-murthy-jatavallabhula/</link>
+    </image>
+    
+    <item>
+      <title>Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research</title>
+      <link>/publication/kaolin/</link>
+      <pubDate>Wed, 14 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/kaolin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

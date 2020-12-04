@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio Torralba | NVIDIA Toronto AI Lab</title>
+    <link>/author/antonio-torralba/</link>
+      <atom:link href="/author/antonio-torralba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antonio Torralba</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 10:21:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Antonio Torralba</title>
+      <link>/author/antonio-torralba/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Simulate Dynamic Environments with GameGAN</title>
+      <link>/publication/gamegan/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      <guid>/publication/gamegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Turtle Graphics for Modeling City Road Layouts</title>
+      <link>/publication/ntg/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/ntg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Sim: Learning to Generate Synthetic Datasets</title>
+      <link>/publication/meta_sim/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/meta_sim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Varun Jampani | NVIDIA Toronto AI Lab</title>
+    <link>/author/varun-jampani/</link>
+      <atom:link href="/author/varun-jampani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Varun Jampani</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2019 10:21:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Varun Jampani</title>
+      <link>/author/varun-jampani/</link>
+    </image>
+    
+    <item>
+      <title>Gated-SCNN Gated Shape CNNs for Semantic Segmentation</title>
+      <link>/publication/gscnn/</link>
+      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/gscnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

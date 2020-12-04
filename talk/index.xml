@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on NVIDIA Toronto AI Lab</title>
-    <link>https://nv-tlabs.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on NVIDIA Toronto AI Lab</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy;{year} NVIDIA Toronto AI Lab</copyright>
-    
-	<atom:link href="https://nv-tlabs.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Recent &amp; Upcoming Talks | NVIDIA Toronto AI Lab</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
   </channel>
 </rss>

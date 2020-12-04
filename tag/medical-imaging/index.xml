@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Imaging | NVIDIA Toronto AI Lab</title>
+    <link>/tag/medical-imaging/</link>
+      <atom:link href="/tag/medical-imaging/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Imaging</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 10:58:41 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Medical Imaging</title>
+      <link>/tag/medical-imaging/</link>
+    </image>
+    
+    <item>
+      <title>Federated Simulation or Medical Imaging</title>
+      <link>/publication/fed-sim/</link>
+      <pubDate>Thu, 01 Oct 2020 10:58:41 -0400</pubDate>
+      <guid>/publication/fed-sim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

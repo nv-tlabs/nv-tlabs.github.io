@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marc T. Law | NVIDIA Toronto AI Lab</title>
+    <link>/author/marc-t.-law/</link>
+      <atom:link href="/author/marc-t.-law/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marc T. Law</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Oct 2020 01:33:07 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Marc T. Law</title>
+      <link>/author/marc-t.-law/</link>
+    </image>
+    
+    <item>
+      <title>Ultrahyperbolic Representation Learning</title>
+      <link>/publication/ultrahyperbolic-representation-learning/</link>
+      <pubDate>Fri, 02 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/ultrahyperbolic-representation-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

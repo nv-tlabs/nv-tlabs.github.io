@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeevan Devaranjan* | NVIDIA Toronto AI Lab</title>
+    <link>/author/jeevan-devaranjan/</link>
+      <atom:link href="/author/jeevan-devaranjan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeevan Devaranjan*</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Sep 2020 01:33:07 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Jeevan Devaranjan*</title>
+      <link>/author/jeevan-devaranjan/</link>
+    </image>
+    
+    <item>
+      <title>Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation</title>
+      <link>/publication/metasim2/</link>
+      <pubDate>Sat, 05 Sep 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/metasim2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
