@@ -127,12 +127,77 @@
   </url>
   
   <url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-10-15T01:33:07-04:00</lastmod>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alec-jacobson/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/charles-loop/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/derek-nowrouzezahrai/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joey-litalien/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kangxue-yin/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/karsten-kreis/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nglod/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/towaki-takikawa/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-10-15T01:33:07-04:00</lastmod>
   </url>
   
@@ -167,27 +232,7 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-10-15T01:33:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-10-15T01:33:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-10-15T01:33:07-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/category/robotics/</loc>
-    <lastmod>2020-10-15T01:33:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2020-10-15T01:33:07-04:00</lastmod>
   </url>
   
@@ -272,11 +317,6 @@
   </url>
   
   <url>
-    <loc>/author/karsten-kreis/</loc>
-    <lastmod>2020-10-13T01:33:07-04:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/seung-wook-kim/</loc>
     <lastmod>2020-10-13T01:33:07-04:00</lastmod>
   </url>
@@ -284,11 +324,6 @@
   <url>
     <loc>/publication/variational_amodal_object_completion/</loc>
     <lastmod>2020-10-13T01:33:07-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/alec-jacobson/</loc>
-    <lastmod>2020-10-02T11:09:21-04:00</lastmod>
   </url>
   
   <url>
@@ -468,11 +503,6 @@
   
   <url>
     <loc>/publication/gscnn/</loc>
-    <lastmod>2019-07-16T10:21:59-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/towaki-takikawa/</loc>
     <lastmod>2019-07-16T10:21:59-04:00</lastmod>
   </url>
   

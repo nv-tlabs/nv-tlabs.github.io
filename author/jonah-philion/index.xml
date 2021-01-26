@@ -5,12 +5,28 @@
     <link>/author/jonah-philion/</link>
       <atom:link href="/author/jonah-philion/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonah Philion</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 01:33:07 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Jonah Philion</title>
       <link>/author/jonah-philion/</link>
     </image>
+    
+    <item>
+      <title>Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D</title>
+      <link>/publication/lift-splat-shoot/</link>
+      <pubDate>Fri, 04 Sep 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/lift-splat-shoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Simulate Dynamic Environments with GameGAN</title>
+      <link>/publication/gamegan/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      <guid>/publication/gamegan/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
