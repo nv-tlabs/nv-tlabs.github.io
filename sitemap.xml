@@ -167,6 +167,11 @@
   </url>
   
   <url>
+    <loc>/author/morgan-mcguire/</loc>
+    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/nglod/</loc>
     <lastmod>2021-01-25T10:21:59-04:00</lastmod>
   </url>
@@ -338,11 +343,6 @@
   
   <url>
     <loc>/tag/machine-learning/</loc>
-    <lastmod>2020-10-02T11:09:21-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/morgan-mcguire/</loc>
     <lastmod>2020-10-02T11:09:21-04:00</lastmod>
   </url>
   
