@@ -5,12 +5,20 @@
     <link>/author/antonio-torralba/</link>
       <atom:link href="/author/antonio-torralba/index.xml" rel="self" type="application/rss+xml" />
     <description>Antonio Torralba</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Antonio Torralba</title>
       <link>/author/antonio-torralba/</link>
     </image>
+    
+    <item>
+      <title>DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</title>
+      <link>/publication/datasetgan/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/datasetgan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning to Simulate Dynamic Environments with GameGAN</title>

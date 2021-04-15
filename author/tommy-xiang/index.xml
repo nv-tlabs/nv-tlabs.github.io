@@ -14,24 +14,3 @@
     
   </channel>
 </rss>
-hor/tommy-xiang/</link>
-    </image>
-    
-    <item>
-      <title>Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research</title>
-      <link>/publication/kaolin/</link>
-      <pubDate>Wed, 14 Oct 2020 01:33:07 -0400</pubDate>
-      <guid>/publication/kaolin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Deformable Tetrahedral Meshes for 3D Reconstruction</title>
-      <link>/publication/def-tet/</link>
-      <pubDate>Fri, 02 Oct 2020 11:09:21 -0400</pubDate>
-      <guid>/publication/def-tet/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
