@@ -14,24 +14,3 @@
     
   </channel>
 </rss>
-/seung-wook-kim/</link>
-    </image>
-    
-    <item>
-      <title>Variational Amodal Object Completion</title>
-      <link>/publication/variational_amodal_object_completion/</link>
-      <pubDate>Tue, 13 Oct 2020 01:33:07 -0400</pubDate>
-      <guid>/publication/variational_amodal_object_completion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning to Simulate Dynamic Environments with GameGAN</title>
-      <link>/publication/gamegan/</link>
-      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
-      <guid>/publication/gamegan/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>

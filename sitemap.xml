@@ -67,7 +67,13 @@
     <loc>/publication-type/1/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
     <loc>/author/adela-barriuso/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/alec-jacobson/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/antonio-torralba/</loc>
@@ -76,7 +82,13 @@
     <loc>/authors/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
+    <loc>/author/charles-loop/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
     <loc>/publication/datasetgan/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/derek-nowrouzezahrai/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/huan-ling/</loc>
@@ -85,10 +97,22 @@
     <loc>/author/jean-francois-lafleche/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
+    <loc>/author/joey-litalien/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
     <loc>/author/jun-gao/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/kangxue-yin/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/karsten-kreis/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/morgan-mcguire/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/nglod/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -103,35 +127,62 @@
     <loc>/author/sanja-fidler/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
+    <loc>/author/towaki-takikawa/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
     <loc>/author/yuxuan-zhang/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/author/andreas-wieser/</loc>
+    <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/alec-jacobson/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/author/leonidas-j-guibas/</loc>
+    <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/charles-loop/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/author/or-litany/</loc>
+    <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/derek-nowrouzezahrai/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/author/tolga-birdal/</loc>
+    <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/joey-litalien/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/publication/cvpr_2021_weakly_supervised_rigid/</loc>
+    <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/karsten-kreis/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/author/zan-gojcic/</loc>
+    <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/morgan-mcguire/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/publication/cvpr_2021_3dioumatch/</loc>
+    <lastmod>2021-04-11T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/publication/nglod/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/author/he-wang/</loc>
+    <lastmod>2021-04-11T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/towaki-takikawa/</loc>
-    <lastmod>2021-01-25T10:21:59-04:00</lastmod>
+    <loc>/author/leonidas-j.-guibas/</loc>
+    <lastmod>2021-04-11T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/yezhen-cong/</loc>
+    <lastmod>2021-04-11T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/yue-gao/</loc>
+    <lastmod>2021-04-11T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/alexander-toshev/</loc>
+    <lastmod>2021-01-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/chengshu-li/</loc>
+    <lastmod>2021-01-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/fei-xia/</loc>
+    <lastmod>2021-01-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/icra_2021_relmogen/</loc>
+    <lastmod>2021-01-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/roberto-martin-martin/</loc>
+    <lastmod>2021-01-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/silvio-savarese/</loc>
+    <lastmod>2021-01-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
     <lastmod>2020-10-15T01:33:07-04:00</lastmod>

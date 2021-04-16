@@ -14,24 +14,3 @@
     
   </channel>
 </rss>
-towaki-takikawa/</link>
-    </image>
-    
-    <item>
-      <title>Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces</title>
-      <link>/publication/nglod/</link>
-      <pubDate>Mon, 25 Jan 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/nglod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gated-SCNN Gated Shape CNNs for Semantic Segmentation</title>
-      <link>/publication/gscnn/</link>
-      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
-      <guid>/publication/gscnn/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>

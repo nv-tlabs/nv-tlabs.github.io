@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Wieser | NVIDIA Toronto AI Lab</title>
+    <link>/author/andreas-wieser/</link>
+      <atom:link href="/author/andreas-wieser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Wieser</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Apr 2021 10:21:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Andreas Wieser</title>
+      <link>/author/andreas-wieser/</link>
+    </image>
+    
+    <item>
+      <title>Weakly Supervised Learning of Rigid 3D Scene Flow</title>
+      <link>/publication/cvpr_2021_weakly_supervised_rigid/</link>
+      <pubDate>Wed, 14 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_weakly_supervised_rigid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

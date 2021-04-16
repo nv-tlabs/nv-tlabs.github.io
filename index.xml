@@ -23,8 +23,32 @@
     <item>
       <title>Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces</title>
       <link>/publication/nglod/</link>
-      <pubDate>Mon, 25 Jan 2021 10:21:59 -0400</pubDate>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
       <guid>/publication/nglod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Learning of Rigid 3D Scene Flow</title>
+      <link>/publication/cvpr_2021_weakly_supervised_rigid/</link>
+      <pubDate>Wed, 14 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_weakly_supervised_rigid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection</title>
+      <link>/publication/cvpr_2021_3dioumatch/</link>
+      <pubDate>Sun, 11 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_3dioumatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReLMoGen: Integrating Reinforcement Learning and Motion Generation for Interactive Navigation</title>
+      <link>/publication/icra_2021_relmogen/</link>
+      <pubDate>Fri, 15 Jan 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/icra_2021_relmogen/</guid>
       <description></description>
     </item>
     
