@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization</title>
+      <link>/publication/cvpr_2021_semanticgan/</link>
+      <pubDate>Sun, 11 Apr 2021 10:22:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_semanticgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection</title>
       <link>/publication/cvpr_2021_3dioumatch/</link>
       <pubDate>Sun, 11 Apr 2021 10:21:59 -0400</pubDate>

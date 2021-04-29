@@ -14,3 +14,19 @@
     
   </channel>
 </rss>
+ment-fuji-tsang/</link>
+    </image>
+    
+    <item>
+      <title>Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research</title>
+      <link>/publication/kaolin/</link>
+      <pubDate>Wed, 14 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/kaolin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/omniverse-kaolin-app-now-available-for-3d-deep-learning-researchers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kaolin.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaolin library documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.omniverse.nvidia.com/app_kaolin/app_kaolin/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Omniverse Kaolin app documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
