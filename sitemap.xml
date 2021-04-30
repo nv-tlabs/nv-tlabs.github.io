@@ -91,6 +91,9 @@
     <loc>/author/derek-nowrouzezahrai/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
+    <loc>/publication/cvpr_2021_drivegan/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
     <loc>/author/huan-ling/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
@@ -98,6 +101,9 @@
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/joey-litalien/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jonah-philion/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/jun-gao/</loc>
@@ -125,6 +131,9 @@
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/sanja-fidler/</loc>
+    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/seung-wook-kim/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/towaki-takikawa/</loc>
@@ -256,9 +265,6 @@
     <loc>/author/david-acuna/</loc>
     <lastmod>2020-10-13T01:33:07-04:00</lastmod>
   </url><url>
-    <loc>/author/seung-wook-kim/</loc>
-    <lastmod>2020-10-13T01:33:07-04:00</lastmod>
-  </url><url>
     <loc>/publication/variational_amodal_object_completion/</loc>
     <lastmod>2020-10-13T01:33:07-04:00</lastmod>
   </url><url>
@@ -306,9 +312,6 @@
   </url><url>
     <loc>/publication/metasim2/</loc>
     <lastmod>2020-09-05T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/author/jonah-philion/</loc>
-    <lastmod>2020-09-04T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/publication/lift-splat-shoot/</loc>
     <lastmod>2020-09-04T01:33:07-04:00</lastmod>
