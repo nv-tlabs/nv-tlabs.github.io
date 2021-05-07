@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinan Zhang | NVIDIA Toronto AI Lab</title>
+    <link>/author/yinan-zhang/</link>
+      <atom:link href="/author/yinan-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yinan Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 10:22:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Yinan Zhang</title>
+      <link>/author/yinan-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering</title>
+      <link>/publication/iclr_2021_ganverse3d/</link>
+      <pubDate>Sat, 13 Feb 2021 10:22:59 -0400</pubDate>
+      <guid>/publication/iclr_2021_ganverse3d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
