@@ -6,6 +6,10 @@
   </url><url>
     <loc>/author/david-acuna/</loc>
   </url><url>
+    <loc>/author/sourav-biswas/</loc>
+  </url><url>
+    <loc>/author/bradley-brown/</loc>
+  </url><url>
     <loc>/author/tianshi-cao/</loc>
   </url><url>
     <loc>/author/bowen-chen/</loc>
@@ -15,6 +19,8 @@
     <loc>/author/clement-fuji-tsang/</loc>
   </url><url>
     <loc>/author/jun-gao/</loc>
+  </url><url>
+    <loc>/author/tim-dockhorn/</loc>
   </url><url>
     <loc>/author/amlan-kar/</loc>
   </url><url>
@@ -26,7 +32,11 @@
   </url><url>
     <loc>/author/marc-law/</loc>
   </url><url>
+    <loc>/author/michael-li/</loc>
+  </url><url>
     <loc>/author/daiqing-li/</loc>
+  </url><url>
+    <loc>/author/james-lucas/</loc>
   </url><url>
     <loc>/author/huan-ling/</loc>
   </url><url>
@@ -65,7 +75,52 @@
     <loc>/author/tingwu-wang/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/david-acuna/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/icml_2021_fdal/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/guojun-zhang/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/marc-t.-law/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/anima-anandkumar/</loc>
+    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
+  </url><url>
+    <loc>/publication/icml_2021_long_tail/</loc>
+    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
+  </url><url>
+    <loc>/author/jose-m.-alvarez/</loc>
+    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
+  </url><url>
+    <loc>/author/nadine-chang/</loc>
+    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
+  </url><url>
+    <loc>/author/yu-xiong-wang/</loc>
+    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
+  </url><url>
+    <loc>/author/zhiding-yu/</loc>
+    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
   </url><url>
     <loc>/publication-type/3/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
@@ -77,9 +132,6 @@
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/antonio-torralba/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/charles-loop/</loc>
@@ -119,18 +171,6 @@
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/nglod/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/seung-wook-kim/</loc>
@@ -268,9 +308,6 @@
     <loc>/author/tommy-xiang/</loc>
     <lastmod>2020-10-14T01:33:07-04:00</lastmod>
   </url><url>
-    <loc>/author/david-acuna/</loc>
-    <lastmod>2020-10-13T01:33:07-04:00</lastmod>
-  </url><url>
     <loc>/publication/variational_amodal_object_completion/</loc>
     <lastmod>2020-10-13T01:33:07-04:00</lastmod>
   </url><url>
@@ -284,9 +321,6 @@
     <lastmod>2020-10-02T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/author/jos-stam/</loc>
-    <lastmod>2020-10-02T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/author/marc-t.-law/</loc>
     <lastmod>2020-10-02T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/tag/optimization/</loc>

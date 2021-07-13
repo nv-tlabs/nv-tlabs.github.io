@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Xiong Wang | NVIDIA Toronto AI Lab</title>
+    <link>/author/yu-xiong-wang/</link>
+      <atom:link href="/author/yu-xiong-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Xiong Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 10:22:59 -0300</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Yu-Xiong Wang</title>
+      <link>/author/yu-xiong-wang/</link>
+    </image>
+    
+    <item>
+      <title>Image-Level or Object-Level? A Tale of Two Resampling Strategies for Long-Tailed Detection</title>
+      <link>/publication/icml_2021_long_tail/</link>
+      <pubDate>Mon, 12 Jul 2021 10:22:59 -0300</pubDate>
+      <guid>/publication/icml_2021_long_tail/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
