@@ -5,12 +5,175 @@
     <link>/author/sanja-fidler/</link>
       <atom:link href="/author/sanja-fidler/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanja Fidler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 10:22:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Sanja Fidler</title>
       <link>/author/sanja-fidler/</link>
     </image>
+    
+    <item>
+      <title>f-Domain-Adversarial Learning: Theory and Algorithms</title>
+      <link>/publication/icml_2021_fdal/</link>
+      <pubDate>Mon, 12 Jul 2021 10:22:59 -0400</pubDate>
+      <guid>/publication/icml_2021_fdal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image-Level or Object-Level? A Tale of Two Resampling Strategies for Long-Tailed Detection</title>
+      <link>/publication/icml_2021_long_tail/</link>
+      <pubDate>Mon, 12 Jul 2021 10:22:59 -0300</pubDate>
+      <guid>/publication/icml_2021_long_tail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</title>
+      <link>/publication/datasetgan/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/datasetgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DriveGAN: Towards a Controllable High-Quality Neural Simulation</title>
+      <link>/publication/cvpr_2021_drivegan/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_drivegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces</title>
+      <link>/publication/nglod/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/nglod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization</title>
+      <link>/publication/cvpr_2021_semanticgan/</link>
+      <pubDate>Sun, 11 Apr 2021 10:22:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_semanticgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering</title>
+      <link>/publication/iclr_2021_ganverse3d/</link>
+      <pubDate>Sat, 13 Feb 2021 10:22:59 -0400</pubDate>
+      <guid>/publication/iclr_2021_ganverse3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniCon: Universal Neural Controller For Physics-based Character Motion</title>
+      <link>/publication/unicon/</link>
+      <pubDate>Thu, 15 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/unicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research</title>
+      <link>/publication/kaolin/</link>
+      <pubDate>Wed, 14 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/kaolin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/omniverse-kaolin-app-now-available-for-3d-deep-learning-researchers/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kaolin.readthedocs.io/en/latest/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaolin library documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.omniverse.nvidia.com/app_kaolin/app_kaolin/overview.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Omniverse Kaolin app documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational Amodal Object Completion</title>
+      <link>/publication/variational_amodal_object_completion/</link>
+      <pubDate>Tue, 13 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/variational_amodal_object_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Deformable Tetrahedral Meshes for 3D Reconstruction</title>
+      <link>/publication/def-tet/</link>
+      <pubDate>Fri, 02 Oct 2020 11:09:21 -0400</pubDate>
+      <guid>/publication/def-tet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federated Simulation or Medical Imaging</title>
+      <link>/publication/fed-sim/</link>
+      <pubDate>Thu, 01 Oct 2020 10:58:41 -0400</pubDate>
+      <guid>/publication/fed-sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-Sim2: Unsupervised Learning of Scene Structure for Synthetic Data Generation</title>
+      <link>/publication/metasim2/</link>
+      <pubDate>Sat, 05 Sep 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/metasim2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D</title>
+      <link>/publication/lift-splat-shoot/</link>
+      <pubDate>Fri, 04 Sep 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/lift-splat-shoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Simulate Dynamic Environments with GameGAN</title>
+      <link>/publication/gamegan/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      <guid>/publication/gamegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer</title>
+      <link>/publication/dib-r/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/dib-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Turtle Graphics for Modeling City Road Layouts</title>
+      <link>/publication/ntg/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/ntg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Sim: Learning to Generate Synthetic Datasets</title>
+      <link>/publication/meta_sim/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/meta_sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated-SCNN Gated Shape CNNs for Semantic Segmentation</title>
+      <link>/publication/gscnn/</link>
+      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/gscnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations</title>
+      <link>/publication/steal/</link>
+      <pubDate>Tue, 16 Apr 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/steal/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
