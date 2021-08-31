@@ -5,12 +5,28 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Aug 2021 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 10:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations</title>
+      <link>/publication/iccv_2021_3dstylenet/</link>
+      <pubDate>Mon, 30 Aug 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/iccv_2021_3dstylenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Neurons: A General Framework for SO(3)-Equivariant Networks</title>
+      <link>/publication/iccv_2021_vector_neurons/</link>
+      <pubDate>Sun, 29 Aug 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/iccv_2021_vector_neurons/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Self-Supervised Real-to-Sim Scene Generation</title>
