@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yunrong Guo | NVIDIA Toronto AI Lab</title>
-    <link>/author/yunrong-guo/</link>
-      <atom:link href="/author/yunrong-guo/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yunrong Guo</description>
+    <title>Florian Shkurti | NVIDIA Toronto AI Lab</title>
+    <link>/author/florian-shkurti/</link>
+      <atom:link href="/author/florian-shkurti/index.xml" rel="self" type="application/rss+xml" />
+    <description>Florian Shkurti</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Aug 2021 10:21:58 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
-      <title>Yunrong Guo</title>
-      <link>/author/yunrong-guo/</link>
+      <title>Florian Shkurti</title>
+      <link>/author/florian-shkurti/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/iccv_2021_physics/</link>
       <pubDate>Sun, 29 Aug 2021 10:21:58 -0400</pubDate>
       <guid>/publication/iccv_2021_physics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UniCon: Universal Neural Controller For Physics-based Character Motion</title>
-      <link>/publication/unicon/</link>
-      <pubDate>Thu, 15 Oct 2020 01:33:07 -0400</pubDate>
-      <guid>/publication/unicon/</guid>
       <description></description>
     </item>
     
