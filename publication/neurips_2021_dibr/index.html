@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="We consider the challenging problem of predicting intrinsic object properties from a single image by exploiting differentiable renderers. Many previous learning-based approaches for inverse graphics adopt rasterization-based renderers and assume naive lighting and material models, which often fail to account for non-Lambertian, specular reflections commonly observed in the wild. In this work, we propose DIBR&#43;&#43;, a hybrid differentiable renderer which supports these photorealistic effects by combining rasterization and ray-tracing, taking the advantage of their respective strengths -- speed and realism. Our renderer incorporates environmental lighting and spatially-varying material models to efficiently approximate light transport, either through direct estimation or via spherical basis functions. Compared to more advanced physics-based differentiable renderers leveraging path tracing, DIBR&#43;&#43; is highly performant due to its compact and expressive shading model, which enables easy integration with learning frameworks for geometry, reflectance and lighting prediction from a single image without requiring any ground-truth. We experimentally demonstrate that our approach achieves superior material and lighting disentanglement on synthetic and real data compared to existing rasterization-based approaches and showcase several artistic applications including material editing and relighting.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/author/daiqing-li/">
+  <link rel="alternate" hreflang="en-us" href="/publication/neurips_2021_dibr/">
 
   
 
@@ -252,14 +252,12 @@
   
 
   
-  <link rel="alternate" href="/author/daiqing-li/index.xml" type="application/rss+xml" title="NVIDIA Toronto AI Lab">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/author/daiqing-li/">
+  <link rel="canonical" href="/publication/neurips_2021_dibr/">
 
   
   
@@ -269,35 +267,84 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="NVIDIA Toronto AI Lab">
-  <meta property="og:url" content="/author/daiqing-li/">
-  <meta property="og:title" content="Daiqing Li | NVIDIA Toronto AI Lab">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/neurips_2021_dibr/">
+  <meta property="og:title" content="DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer | NVIDIA Toronto AI Lab">
+  <meta property="og:description" content="We consider the challenging problem of predicting intrinsic object properties from a single image by exploiting differentiable renderers. Many previous learning-based approaches for inverse graphics adopt rasterization-based renderers and assume naive lighting and material models, which often fail to account for non-Lambertian, specular reflections commonly observed in the wild. In this work, we propose DIBR&#43;&#43;, a hybrid differentiable renderer which supports these photorealistic effects by combining rasterization and ray-tracing, taking the advantage of their respective strengths -- speed and realism. Our renderer incorporates environmental lighting and spatially-varying material models to efficiently approximate light transport, either through direct estimation or via spherical basis functions. Compared to more advanced physics-based differentiable renderers leveraging path tracing, DIBR&#43;&#43; is highly performant due to its compact and expressive shading model, which enables easy integration with learning frameworks for geometry, reflectance and lighting prediction from a single image without requiring any ground-truth. We experimentally demonstrate that our approach achieves superior material and lighting disentanglement on synthetic and real data compared to existing rasterization-based approaches and showcase several artistic applications including material editing and relighting."><meta property="og:image" content="/publication/neurips_2021_dibr/featured.png">
+  <meta property="twitter:image" content="/publication/neurips_2021_dibr/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-10-31T10:21:58-04:00">
+    
+      <meta property="article:published_time" content="2021-10-31T10:22:58-04:00">
+    
+    <meta property="article:modified_time" content="2021-10-31T10:22:58-04:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/neurips_2021_dibr/"
+  },
+  "headline": "DIB-R++: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer",
+  
+  "image": [
+    "/publication/neurips_2021_dibr/featured.png"
+  ],
+  
+  "datePublished": "2021-10-31T10:22:58-04:00",
+  "dateModified": "2021-10-31T10:22:58-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Wenzheng Chen"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "NVIDIA Toronto AI Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "We consider the challenging problem of predicting intrinsic object properties from a single image by exploiting differentiable renderers. Many previous learning-based approaches for inverse graphics adopt rasterization-based renderers and assume naive lighting and material models, which often fail to account for non-Lambertian, specular reflections commonly observed in the wild. In this work, we propose DIBR++, a hybrid differentiable renderer which supports these photorealistic effects by combining rasterization and ray-tracing, taking the advantage of their respective strengths -- speed and realism. Our renderer incorporates environmental lighting and spatially-varying material models to efficiently approximate light transport, either through direct estimation or via spherical basis functions. Compared to more advanced physics-based differentiable renderers leveraging path tracing, DIBR++ is highly performant due to its compact and expressive shading model, which enables easy integration with learning frameworks for geometry, reflectance and lighting prediction from a single image without requiring any ground-truth. We experimentally demonstrate that our approach achieves superior material and lighting disentanglement on synthetic and real data compared to existing rasterization-based approaches and showcase several artistic applications including material editing and relighting."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Daiqing Li | NVIDIA Toronto AI Lab</title>
+  <title>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer | NVIDIA Toronto AI Lab</title>
 
 </head>
 
@@ -694,48 +741,373 @@
 
 
 
+  <div class="pub">
+
   
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Daiqing Li</h1>
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/wenzheng-chen/">Wenzheng Chen</a></span>, <span ><a href="/author/joey-litalien/">Joey Litalien</a></span>, <span ><a href="/author/jun-gao/">Jun Gao</a></span>, <span ><a href="/author/zian-wang/">Zian Wang</a></span>, <span ><a href="/author/clement-fuji-tsang/">Clement Fuji Tsang</a></span>, <span ><a href="/author/sameh-khamis/">Sameh Khamis</a></span>, <span ><a href="/author/or-litany/">Or Litany</a></span>, <span ><a href="/author/sanja-fidler/">Sanja Fidler</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    October 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2111.00140" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://nv-tlabs.github.io/DIBRPlus/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We consider the challenging problem of predicting intrinsic object properties from a single image by exploiting differentiable renderers. Many previous learning-based approaches for inverse graphics adopt rasterization-based renderers and assume naive lighting and material models, which often fail to account for non-Lambertian, specular reflections commonly observed in the wild. In this work, we propose DIBR++, a hybrid differentiable renderer which supports these photorealistic effects by combining rasterization and ray-tracing, taking the advantage of their respective strengths &ndash; speed and realism. Our renderer incorporates environmental lighting and spatially-varying material models to efficiently approximate light transport, either through direct estimation or via spherical basis functions. Compared to more advanced physics-based differentiable renderers leveraging path tracing, DIBR++ is highly performant due to its compact and expressive shading model, which enables easy integration with learning frameworks for geometry, reflectance and lighting prediction from a single image without requiring any ground-truth. We experimentally demonstrate that our approach achieves superior material and lighting disentanglement on synthetic and real data compared to existing rasterization-based approaches and showcase several artistic applications including material editing and relighting.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/neurips_2021_editgan/">EditGAN: High-Precision Semantic Image Editing</a>
-        </li>
-        
-        <li>
-          <a href="/publication/cvpr_2021_semanticgan/">Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization</a>
-        </li>
-        
-        <li>
-          <a href="/publication/fed-sim/">Federated Simulation or Medical Imaging</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ntg/">Neural Turtle Graphics for Modeling City Road Layouts</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">NeurIPS 2021</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/neurips_2021_dibr/&amp;text=DIB-R&#43;&#43;:%20Learning%20to%20Predict%20Lighting%20and%20Material%20with%20a%20Hybrid%20Differentiable%20Renderer" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/neurips_2021_dibr/&amp;t=DIB-R&#43;&#43;:%20Learning%20to%20Predict%20Lighting%20and%20Material%20with%20a%20Hybrid%20Differentiable%20Renderer" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=DIB-R&#43;&#43;:%20Learning%20to%20Predict%20Lighting%20and%20Material%20with%20a%20Hybrid%20Differentiable%20Renderer&amp;body=/publication/neurips_2021_dibr/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/neurips_2021_dibr/&amp;title=DIB-R&#43;&#43;:%20Learning%20to%20Predict%20Lighting%20and%20Material%20with%20a%20Hybrid%20Differentiable%20Renderer" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=DIB-R&#43;&#43;:%20Learning%20to%20Predict%20Lighting%20and%20Material%20with%20a%20Hybrid%20Differentiable%20Renderer%20/publication/neurips_2021_dibr/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/neurips_2021_dibr/&amp;title=DIB-R&#43;&#43;:%20Learning%20to%20Predict%20Lighting%20and%20Material%20with%20a%20Hybrid%20Differentiable%20Renderer" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/iccv_2021_3dstylenet/">3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations</a></li>
+      
+      <li><a href="/publication/iclr_2021_ganverse3d/">Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering</a></li>
+      
+      <li><a href="/publication/kaolin/">Kaolin: A PyTorch Library for Accelerating 3D Deep Learning Research</a></li>
+      
+      <li><a href="/publication/def-tet/">Learning Deformable Tetrahedral Meshes for 3D Reconstruction</a></li>
+      
+      <li><a href="/publication/dib-r/">Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer</a></li>
+      
+    </ul>
   </div>
-</section>
+  
+
+
+
+
+
+  </div>
+</div>
 
       
 

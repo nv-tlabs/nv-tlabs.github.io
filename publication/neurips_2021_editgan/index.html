@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Generative adversarial networks (GANs) have recently found applications in image editing. However, most GAN based image editing methods often require large scale datasets with semantic segmentation annotations for training, only provide high level control, or merely interpolate between different images. Here, we propose EditGAN, a novel method for high quality, high precision semantic image editing, allowing users to edit images by modifying their highly detailed part segmentation masks, e.g., drawing a new mask for the headlight of a car. EditGAN builds on a GAN framework that jointly models images and their semantic segmentations, requiring only a handful of labeled examples, making it a scalable tool for editing. Specifically, we embed an image into the GAN latent space and perform conditional latent code optimization according to the segmentation edit, which effectively also modifies the image. To amortize optimization, we find editing vectors in latent space that realize the edits. The framework allows us to learn an arbitrary number of editing vectors, which can then be directly applied on other images at interactive rates. We experimentally show that EditGAN can manipulate images with an unprecedented level of detail and freedom, while preserving full image quality.We can also easily combine multiple edits and perform plausible edits beyond EditGAN training data. We demonstrate EditGAN on a wide variety of image types and quantitatively outperform several previous editing methods on standard editing benchmark tasks.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/author/daiqing-li/">
+  <link rel="alternate" hreflang="en-us" href="/publication/neurips_2021_editgan/">
 
   
 
@@ -252,14 +252,12 @@
   
 
   
-  <link rel="alternate" href="/author/daiqing-li/index.xml" type="application/rss+xml" title="NVIDIA Toronto AI Lab">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/author/daiqing-li/">
+  <link rel="canonical" href="/publication/neurips_2021_editgan/">
 
   
   
@@ -269,35 +267,84 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="NVIDIA Toronto AI Lab">
-  <meta property="og:url" content="/author/daiqing-li/">
-  <meta property="og:title" content="Daiqing Li | NVIDIA Toronto AI Lab">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/neurips_2021_editgan/">
+  <meta property="og:title" content="EditGAN: High-Precision Semantic Image Editing | NVIDIA Toronto AI Lab">
+  <meta property="og:description" content="Generative adversarial networks (GANs) have recently found applications in image editing. However, most GAN based image editing methods often require large scale datasets with semantic segmentation annotations for training, only provide high level control, or merely interpolate between different images. Here, we propose EditGAN, a novel method for high quality, high precision semantic image editing, allowing users to edit images by modifying their highly detailed part segmentation masks, e.g., drawing a new mask for the headlight of a car. EditGAN builds on a GAN framework that jointly models images and their semantic segmentations, requiring only a handful of labeled examples, making it a scalable tool for editing. Specifically, we embed an image into the GAN latent space and perform conditional latent code optimization according to the segmentation edit, which effectively also modifies the image. To amortize optimization, we find editing vectors in latent space that realize the edits. The framework allows us to learn an arbitrary number of editing vectors, which can then be directly applied on other images at interactive rates. We experimentally show that EditGAN can manipulate images with an unprecedented level of detail and freedom, while preserving full image quality.We can also easily combine multiple edits and perform plausible edits beyond EditGAN training data. We demonstrate EditGAN on a wide variety of image types and quantitatively outperform several previous editing methods on standard editing benchmark tasks."><meta property="og:image" content="/publication/neurips_2021_editgan/featured.png">
+  <meta property="twitter:image" content="/publication/neurips_2021_editgan/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-10-31T10:21:58-04:00">
+    
+      <meta property="article:published_time" content="2021-10-31T10:21:58-04:00">
+    
+    <meta property="article:modified_time" content="2021-10-31T10:21:58-04:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/neurips_2021_editgan/"
+  },
+  "headline": "EditGAN: High-Precision Semantic Image Editing",
+  
+  "image": [
+    "/publication/neurips_2021_editgan/featured.png"
+  ],
+  
+  "datePublished": "2021-10-31T10:21:58-04:00",
+  "dateModified": "2021-10-31T10:21:58-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Huan Ling"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "NVIDIA Toronto AI Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "Generative adversarial networks (GANs) have recently found applications in image editing. However, most GAN based image editing methods often require large scale datasets with semantic segmentation annotations for training, only provide high level control, or merely interpolate between different images. Here, we propose EditGAN, a novel method for high quality, high precision semantic image editing, allowing users to edit images by modifying their highly detailed part segmentation masks, e.g., drawing a new mask for the headlight of a car. EditGAN builds on a GAN framework that jointly models images and their semantic segmentations, requiring only a handful of labeled examples, making it a scalable tool for editing. Specifically, we embed an image into the GAN latent space and perform conditional latent code optimization according to the segmentation edit, which effectively also modifies the image. To amortize optimization, we find editing vectors in latent space that realize the edits. The framework allows us to learn an arbitrary number of editing vectors, which can then be directly applied on other images at interactive rates. We experimentally show that EditGAN can manipulate images with an unprecedented level of detail and freedom, while preserving full image quality.We can also easily combine multiple edits and perform plausible edits beyond EditGAN training data. We demonstrate EditGAN on a wide variety of image types and quantitatively outperform several previous editing methods on standard editing benchmark tasks."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Daiqing Li | NVIDIA Toronto AI Lab</title>
+  <title>EditGAN: High-Precision Semantic Image Editing | NVIDIA Toronto AI Lab</title>
 
 </head>
 
@@ -694,48 +741,361 @@
 
 
 
+  <div class="pub">
+
   
 
 
 
-<div class="universal-wrapper pt-3">
-  <h1>Daiqing Li</h1>
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>EditGAN: High-Precision Semantic Image Editing</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/huan-ling/">Huan Ling</a></span>, <span ><a href="/author/karsten-kreis/">Karsten Kreis</a></span>, <span ><a href="/author/daiqing-li/">Daiqing Li</a></span>, <span ><a href="/author/seung-wook-kim/">Seung Wook Kim</a></span>, <span ><a href="/author/antonio-torralba/">Antonio Torralba</a></span>, <span ><a href="/author/sanja-fidler/">Sanja Fidler</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    October 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2111.03186" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://nv-tlabs.github.io/editGAN/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
 </div>
 
 
-<section id="profile-page" class="pt-5">
-  <div class="container">
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Generative adversarial networks (GANs) have recently found applications in image editing. However, most GAN based image editing methods often require large scale datasets with semantic segmentation annotations for training, only provide high level control, or merely interpolate between different images. Here, we propose EditGAN, a novel method for high quality, high precision semantic image editing, allowing users to edit images by modifying their highly detailed part segmentation masks, e.g., drawing a new mask for the headlight of a car. EditGAN builds on a GAN framework that jointly models images and their semantic segmentations, requiring only a handful of labeled examples, making it a scalable tool for editing. Specifically, we embed an image into the GAN latent space and perform conditional latent code optimization according to the segmentation edit, which effectively also modifies the image. To amortize optimization, we find editing vectors in latent space that realize the edits. The framework allows us to learn an arbitrary number of editing vectors, which can then be directly applied on other images at interactive rates. We experimentally show that EditGAN can manipulate images with an unprecedented level of detail and freedom, while preserving full image quality.We can also easily combine multiple edits and perform plausible edits beyond EditGAN training data. We demonstrate EditGAN on a wide variety of image types and quantitatively outperform several previous editing methods on standard editing benchmark tasks.</p>
     
 
     
-    
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/neurips_2021_editgan/">EditGAN: High-Precision Semantic Image Editing</a>
-        </li>
-        
-        <li>
-          <a href="/publication/cvpr_2021_semanticgan/">Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization</a>
-        </li>
-        
-        <li>
-          <a href="/publication/fed-sim/">Federated Simulation or Medical Imaging</a>
-        </li>
-        
-        <li>
-          <a href="/publication/ntg/">Neural Turtle Graphics for Modeling City Road Layouts</a>
-        </li>
-        
-      </ul>
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
     </div>
+    <div class="d-md-none space-below"></div>
     
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">NeurIPS 2021</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/neurips_2021_editgan/&amp;text=EditGAN:%20High-Precision%20Semantic%20Image%20Editing" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/neurips_2021_editgan/&amp;t=EditGAN:%20High-Precision%20Semantic%20Image%20Editing" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=EditGAN:%20High-Precision%20Semantic%20Image%20Editing&amp;body=/publication/neurips_2021_editgan/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/neurips_2021_editgan/&amp;title=EditGAN:%20High-Precision%20Semantic%20Image%20Editing" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=EditGAN:%20High-Precision%20Semantic%20Image%20Editing%20/publication/neurips_2021_editgan/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/neurips_2021_editgan/&amp;title=EditGAN:%20High-Precision%20Semantic%20Image%20Editing" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/cvpr_2021_semanticgan/">Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization</a></li>
+      
+      <li><a href="/publication/variational_amodal_object_completion/">Variational Amodal Object Completion</a></li>
+      
+      <li><a href="/publication/datasetgan/">DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</a></li>
+      
+      <li><a href="/publication/cvpr_2021_drivegan/">DriveGAN: Towards a Controllable High-Quality Neural Simulation</a></li>
+      
+      <li><a href="/publication/iclr_2021_ganverse3d/">Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering</a></li>
+      
+    </ul>
   </div>
-</section>
+  
+
+
+
+
+
+  </div>
+</div>
 
       
 

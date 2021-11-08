@@ -5,12 +5,20 @@
     <link>/author/wenzheng-chen/</link>
       <atom:link href="/author/wenzheng-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenzheng Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 13 Feb 2021 10:22:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 10:22:58 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Wenzheng Chen</title>
       <link>/author/wenzheng-chen/</link>
     </image>
+    
+    <item>
+      <title>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</title>
+      <link>/publication/neurips_2021_dibr/</link>
+      <pubDate>Sun, 31 Oct 2021 10:22:58 -0400</pubDate>
+      <guid>/publication/neurips_2021_dibr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering</title>

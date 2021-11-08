@@ -5,17 +5,20 @@
     <link>/author/sameh-khamis/</link>
       <atom:link href="/author/sameh-khamis/index.xml" rel="self" type="application/rss+xml" />
     <description>Sameh Khamis</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 10:22:58 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Sameh Khamis</title>
       <link>/author/sameh-khamis/</link>
     </image>
     
-  </channel>
-</rss>
-or/sameh-khamis/</link>
-    </image>
+    <item>
+      <title>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</title>
+      <link>/publication/neurips_2021_dibr/</link>
+      <pubDate>Sun, 31 Oct 2021 10:22:58 -0400</pubDate>
+      <guid>/publication/neurips_2021_dibr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations</title>
