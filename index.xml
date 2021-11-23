@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>NVIDIA Toronto AI Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 10:22:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 10:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>NVIDIA Toronto AI Lab</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation</title>
+      <link>/publication/neurips_2021_simulation_strategies/</link>
+      <pubDate>Sun, 31 Oct 2021 10:23:59 -0400</pubDate>
+      <guid>/publication/neurips_2021_simulation_strategies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ultrahyperbolic Neural Networks</title>
