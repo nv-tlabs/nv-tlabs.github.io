@@ -14,32 +14,3 @@
     
   </channel>
 </rss>
-hor/kangxue-yin/</link>
-    </image>
-    
-    <item>
-      <title>3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations</title>
-      <link>/publication/iccv_2021_3dstylenet/</link>
-      <pubDate>Mon, 30 Aug 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/iccv_2021_3dstylenet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</title>
-      <link>/publication/datasetgan/</link>
-      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/datasetgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces</title>
-      <link>/publication/nglod/</link>
-      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/nglod/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
