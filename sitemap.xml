@@ -99,27 +99,54 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/amlan-kar/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/andreas-geiger/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/neurips_2021_atiss/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/despoina-paschalidou/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/karsten-kreis/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/maria-shugrina/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/arash-vahdat/</loc>
+    <lastmod>2021-11-01T10:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jan-kautz/</loc>
+    <lastmod>2021-11-01T10:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/neurips_2021_lsgm/</loc>
+    <lastmod>2021-11-01T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/david-acuna/</loc>
     <lastmod>2021-10-31T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/jonah-philion/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2021-10-31T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_simulation_strategies/</loc>
@@ -158,13 +185,7 @@
     <loc>/author/alex-bie/</loc>
     <lastmod>2021-10-31T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/arash-vahdat/</loc>
-    <lastmod>2021-10-31T10:21:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/neurips_2021_differentially_private_generative/</loc>
-    <lastmod>2021-10-31T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/karsten-kreis/</loc>
     <lastmod>2021-10-31T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/tianshi-cao/</loc>
@@ -185,9 +206,6 @@
     <loc>/author/seung-wook-kim/</loc>
     <lastmod>2021-10-31T10:21:58-04:00</lastmod>
   </url><url>
-    <loc>/author/jan-kautz/</loc>
-    <lastmod>2021-08-31T10:21:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/iccv_2021_inverse_rendering/</loc>
     <lastmod>2021-08-31T10:21:59-04:00</lastmod>
   </url><url>
@@ -195,9 +213,6 @@
     <lastmod>2021-08-30T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/kangxue-yin/</loc>
-    <lastmod>2021-08-30T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/maria-shugrina/</loc>
     <lastmod>2021-08-30T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/adrien-poulenard/</loc>
@@ -356,6 +371,45 @@
     <loc>/author/yinan-zhang/</loc>
     <lastmod>2021-02-13T10:22:59-04:00</lastmod>
   </url><url>
+    <loc>/publication/iclr_2021_-vaebm/</loc>
+    <lastmod>2021-02-13T10:22:58-04:00</lastmod>
+  </url><url>
+    <loc>/author/zhisheng-xiao/</loc>
+    <lastmod>2021-02-13T10:22:58-04:00</lastmod>
+  </url><url>
+    <loc>/author/breandan-considine/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/florian-golemo/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/publication/iclr_2021_gradsim/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/jerome-parent-levesque/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/kenny-erleben/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/krishna-murthy-jatavallabhula/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/liam-paull/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/linda-petrini/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/martin-weiss/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/miles-macklin/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
+    <loc>/author/vikram-voleti/</loc>
+    <lastmod>2021-02-13T10:22:57-04:00</lastmod>
+  </url><url>
     <loc>/author/alexander-toshev/</loc>
     <lastmod>2021-01-15T10:21:59-04:00</lastmod>
   </url><url>
@@ -410,9 +464,6 @@
     <loc>/publication/kaolin/</loc>
     <lastmod>2020-10-14T01:33:07-04:00</lastmod>
   </url><url>
-    <loc>/author/krishna-murthy-jatavallabhula/</loc>
-    <lastmod>2020-10-14T01:33:07-04:00</lastmod>
-  </url><url>
     <loc>/author/rev-lebaredian/</loc>
     <lastmod>2020-10-14T01:33:07-04:00</lastmod>
   </url><url>
@@ -441,9 +492,6 @@
     <lastmod>2020-10-02T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/author/alejandro-frangi/</loc>
-    <lastmod>2020-10-01T10:58:41-04:00</lastmod>
-  </url><url>
-    <loc>/author/amlan-kar/</loc>
     <lastmod>2020-10-01T10:58:41-04:00</lastmod>
   </url><url>
     <loc>/publication/fed-sim/</loc>

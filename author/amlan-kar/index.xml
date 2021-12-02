@@ -5,12 +5,20 @@
     <link>/author/amlan-kar/</link>
       <atom:link href="/author/amlan-kar/index.xml" rel="self" type="application/rss+xml" />
     <description>Amlan Kar</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 10:58:41 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Amlan Kar</title>
       <link>/author/amlan-kar/</link>
     </image>
+    
+    <item>
+      <title>ATISS: Autoregressive Transformers for Indoor Scene Synthesis</title>
+      <link>/publication/neurips_2021_atiss/</link>
+      <pubDate>Mon, 01 Nov 2021 11:23:59 -0400</pubDate>
+      <guid>/publication/neurips_2021_atiss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Federated Simulation or Medical Imaging</title>

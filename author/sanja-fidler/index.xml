@@ -5,12 +5,20 @@
     <link>/author/sanja-fidler/</link>
       <atom:link href="/author/sanja-fidler/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanja Fidler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 10:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Sanja Fidler</title>
       <link>/author/sanja-fidler/</link>
     </image>
+    
+    <item>
+      <title>ATISS: Autoregressive Transformers for Indoor Scene Synthesis</title>
+      <link>/publication/neurips_2021_atiss/</link>
+      <pubDate>Mon, 01 Nov 2021 11:23:59 -0400</pubDate>
+      <guid>/publication/neurips_2021_atiss/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation</title>
@@ -121,6 +129,14 @@
       <link>/publication/iclr_2021_ganverse3d/</link>
       <pubDate>Sat, 13 Feb 2021 10:22:59 -0400</pubDate>
       <guid>/publication/iclr_2021_ganverse3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gradSim: Differentiable simulation for system identification and visuomotor control</title>
+      <link>/publication/iclr_2021_gradsim/</link>
+      <pubDate>Sat, 13 Feb 2021 10:22:57 -0400</pubDate>
+      <guid>/publication/iclr_2021_gradsim/</guid>
       <description></description>
     </item>
     

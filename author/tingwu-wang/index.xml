@@ -14,3 +14,24 @@
     
   </channel>
 </rss>
+hor/tingwu-wang/</link>
+    </image>
+    
+    <item>
+      <title>Physics-based Human Motion Estimation and Synthesis from Videos</title>
+      <link>/publication/iccv_2021_physics/</link>
+      <pubDate>Sun, 29 Aug 2021 10:21:58 -0400</pubDate>
+      <guid>/publication/iccv_2021_physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniCon: Universal Neural Controller For Physics-based Character Motion</title>
+      <link>/publication/unicon/</link>
+      <pubDate>Thu, 15 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/unicon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

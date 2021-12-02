@@ -20,5 +20,13 @@
       <description></description>
     </item>
     
+    <item>
+      <title>gradSim: Differentiable simulation for system identification and visuomotor control</title>
+      <link>/publication/iclr_2021_gradsim/</link>
+      <pubDate>Sat, 13 Feb 2021 10:22:57 -0400</pubDate>
+      <guid>/publication/iclr_2021_gradsim/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

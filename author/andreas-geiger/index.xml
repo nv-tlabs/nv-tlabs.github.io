@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andreas Geiger | NVIDIA Toronto AI Lab</title>
+    <link>/author/andreas-geiger/</link>
+      <atom:link href="/author/andreas-geiger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andreas Geiger</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 11:23:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Andreas Geiger</title>
+      <link>/author/andreas-geiger/</link>
+    </image>
+    
+    <item>
+      <title>ATISS: Autoregressive Transformers for Indoor Scene Synthesis</title>
+      <link>/publication/neurips_2021_atiss/</link>
+      <pubDate>Mon, 01 Nov 2021 11:23:59 -0400</pubDate>
+      <guid>/publication/neurips_2021_atiss/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
