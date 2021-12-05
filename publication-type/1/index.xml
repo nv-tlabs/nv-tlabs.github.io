@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Contrast to Divide: Self-Supervised Pre-Training for Learning with Noisy Labels</title>
+      <link>/publication/wacv_2022_contrast_to_divide/</link>
+      <pubDate>Wed, 01 Dec 2021 11:23:59 -0400</pubDate>
+      <guid>/publication/wacv_2022_contrast_to_divide/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ATISS: Autoregressive Transformers for Indoor Scene Synthesis</title>
@@ -65,6 +73,14 @@
       <link>/publication/neurips_2021_editgan/</link>
       <pubDate>Sun, 31 Oct 2021 10:21:58 -0400</pubDate>
       <guid>/publication/neurips_2021_editgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mix3D: Out-of-Context Data Augmentation for 3D Scenes</title>
+      <link>/publication/3dv_2021_mix3d/</link>
+      <pubDate>Sat, 30 Oct 2021 10:21:58 -0400</pubDate>
+      <guid>/publication/3dv_2021_mix3d/</guid>
       <description></description>
     </item>
     
