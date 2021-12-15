@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>NVIDIA Toronto AI Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>NVIDIA Toronto AI Lab</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Spectral Unions of Partial Deformable 3D Shapes</title>
+      <link>/publication/eurographics_2022_spectral_unions/</link>
+      <pubDate>Thu, 02 Dec 2021 11:23:59 -0400</pubDate>
+      <guid>/publication/eurographics_2022_spectral_unions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Contrast to Divide: Self-Supervised Pre-Training for Learning with Noisy Labels</title>
