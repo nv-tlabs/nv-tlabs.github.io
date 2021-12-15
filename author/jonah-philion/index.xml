@@ -14,3 +14,48 @@
     
   </channel>
 </rss>
+r/jonah-philion/</link>
+    </image>
+    
+    <item>
+      <title>Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation</title>
+      <link>/publication/neurips_2021_simulation_strategies/</link>
+      <pubDate>Sun, 31 Oct 2021 10:23:59 -0400</pubDate>
+      <guid>/publication/neurips_2021_simulation_strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting</title>
+      <link>/publication/iccv_2021_inverse_rendering/</link>
+      <pubDate>Tue, 31 Aug 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/iccv_2021_inverse_rendering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DriveGAN: Towards a Controllable High-Quality Neural Simulation</title>
+      <link>/publication/cvpr_2021_drivegan/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_drivegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lift, Splat, Shoot: Encoding Images from Arbitrary Camera Rigs by Implicitly Unprojecting to 3D</title>
+      <link>/publication/lift-splat-shoot/</link>
+      <pubDate>Fri, 04 Sep 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/lift-splat-shoot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Simulate Dynamic Environments with GameGAN</title>
+      <link>/publication/gamegan/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      <guid>/publication/gamegan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

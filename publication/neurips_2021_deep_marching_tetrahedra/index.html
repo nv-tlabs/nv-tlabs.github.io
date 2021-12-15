@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="We introduce DMTet, a deep 3D conditional generative model that can synthesize high-resolution 3D shapes using simple user guides such as coarse voxels. It marries the merits of implicit and explicit 3D representations by leveraging a novel hybrid 3D representation. Compared to the current implicit approaches, which are trained to regress the signed distance values, DMTet directly optimizes for the reconstructed surface, which enables us to synthesize finer geometric details with fewer artifacts. Unlike deep 3D generative models that directly generate explicit representations such as meshes, our model can synthesize shapes with arbitrary topology. The core of DMTet includes a deformable tetrahedral grid that encodes a discretized signed distance function and a differentiable marching tetrahedra layer that converts the implicit signed distance representation to the explicit surface mesh representation. This combination allows joint optimization of the surface geometry and topology as well as generation of the hierarchy of subdivisions using reconstruction and adversarial losses defined explicitly on the surface mesh. Our approach significantly outperforms existing work on conditional shape synthesis from coarse voxel inputs, trained on a dataset of complex 3D animal shapes.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/author/tommy-xiang/">
+  <link rel="alternate" hreflang="en-us" href="/publication/neurips_2021_deep_marching_tetrahedra/">
 
   
 
@@ -252,14 +252,12 @@
   
 
   
-  <link rel="alternate" href="/author/tommy-xiang/index.xml" type="application/rss+xml" title="NVIDIA Toronto AI Lab">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/author/tommy-xiang/">
+  <link rel="canonical" href="/publication/neurips_2021_deep_marching_tetrahedra/">
 
   
   
@@ -269,24 +267,70 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="NVIDIA Toronto AI Lab">
-  <meta property="og:url" content="/author/tommy-xiang/">
-  <meta property="og:title" content="Tommy Xiang | NVIDIA Toronto AI Lab">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/neurips_2021_deep_marching_tetrahedra/">
+  <meta property="og:title" content="Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis | NVIDIA Toronto AI Lab">
+  <meta property="og:description" content="We introduce DMTet, a deep 3D conditional generative model that can synthesize high-resolution 3D shapes using simple user guides such as coarse voxels. It marries the merits of implicit and explicit 3D representations by leveraging a novel hybrid 3D representation. Compared to the current implicit approaches, which are trained to regress the signed distance values, DMTet directly optimizes for the reconstructed surface, which enables us to synthesize finer geometric details with fewer artifacts. Unlike deep 3D generative models that directly generate explicit representations such as meshes, our model can synthesize shapes with arbitrary topology. The core of DMTet includes a deformable tetrahedral grid that encodes a discretized signed distance function and a differentiable marching tetrahedra layer that converts the implicit signed distance representation to the explicit surface mesh representation. This combination allows joint optimization of the surface geometry and topology as well as generation of the hierarchy of subdivisions using reconstruction and adversarial losses defined explicitly on the surface mesh. Our approach significantly outperforms existing work on conditional shape synthesis from coarse voxel inputs, trained on a dataset of complex 3D animal shapes."><meta property="og:image" content="/publication/neurips_2021_deep_marching_tetrahedra/featured.png">
+  <meta property="twitter:image" content="/publication/neurips_2021_deep_marching_tetrahedra/featured.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2021-11-01T11:23:58-04:00">
+    
+    <meta property="article:modified_time" content="2021-11-01T11:23:58-04:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/neurips_2021_deep_marching_tetrahedra/"
+  },
+  "headline": "Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis",
+  
+  "image": [
+    "/publication/neurips_2021_deep_marching_tetrahedra/featured.png"
+  ],
+  
+  "datePublished": "2021-11-01T11:23:58-04:00",
+  "dateModified": "2021-11-01T11:23:58-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Tianchang Shen"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "NVIDIA Toronto AI Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "We introduce DMTet, a deep 3D conditional generative model that can synthesize high-resolution 3D shapes using simple user guides such as coarse voxels. It marries the merits of implicit and explicit 3D representations by leveraging a novel hybrid 3D representation. Compared to the current implicit approaches, which are trained to regress the signed distance values, DMTet directly optimizes for the reconstructed surface, which enables us to synthesize finer geometric details with fewer artifacts. Unlike deep 3D generative models that directly generate explicit representations such as meshes, our model can synthesize shapes with arbitrary topology. The core of DMTet includes a deformable tetrahedral grid that encodes a discretized signed distance function and a differentiable marching tetrahedra layer that converts the implicit signed distance representation to the explicit surface mesh representation. This combination allows joint optimization of the surface geometry and topology as well as generation of the hierarchy of subdivisions using reconstruction and adversarial losses defined explicitly on the surface mesh. Our approach significantly outperforms existing work on conditional shape synthesis from coarse voxel inputs, trained on a dataset of complex 3D animal shapes."
+}
+</script>
+
+  
 
   
 
@@ -294,10 +338,13 @@
   
 
 
+  
 
 
 
-  <title>Tommy Xiang | NVIDIA Toronto AI Lab</title>
+
+
+  <title>Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis | NVIDIA Toronto AI Lab</title>
 
 </head>
 
@@ -694,22 +741,7 @@
 
 
 
-  
-
-
-
-
-<section id="profile-page" class="pt-5">
-  <div class="container">
-    
-    
-      
-      
-      
-      
-
-
-
+  <div class="pub">
 
   
 
@@ -722,55 +754,350 @@
 
 
 
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
 
-      
 
-      <div class="portrait-title">
-        <h2>Tommy Xiang</h2>
-        
+  
 
-        
-        <h3>
-          
-          <span>NVIDIA</span>
-          
-        </h3>
-        
-      </div>
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis</h1>
 
-      <ul class="network-icon" aria-hidden="true">
-        
-      </ul>
+  
 
-    </div>
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/tianchang-shen/">Tianchang Shen</a></span>, <span ><a href="/author/jun-gao/">Jun Gao</a></span>, <span ><a href="/author/kangxue-yin/">Kangxue Yin</a></span>, <span ><a href="/author/ming-yu-liu/">Ming-Yu Liu</a></span>, <span ><a href="/author/sanja-fidler/">Sanja Fidler</a></span>
   </div>
-  <div class="col-12 col-lg-8">
+  
+  
 
+  
+  <span class="article-date">
     
     
-
-    
-
-    <div class="row">
-
       
+    
+    November 2021
+  </span>
+  
 
-      
+  
 
-    </div>
-  </div>
+  
+
+  
+  
+  
+
+  
+  
+
 </div>
 
     
 
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
     
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://nv-tlabs.github.io/DMTet/assets/dmtet.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://nv-tlabs.github.io/DMTet/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+  
+  
     
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://recorder-v3.slideslive.com/#/share?share=51790&amp;s=afa6a90a-2dd1-44ad-b8be-508b382c0b12" target="_blank" rel="noopener">
+  Video
+</a>
+
+
+
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">We introduce DMTet, a deep 3D conditional generative model that can synthesize high-resolution 3D shapes using simple user guides such as coarse voxels. It marries the merits of implicit and explicit 3D representations by leveraging a novel hybrid 3D representation. Compared to the current implicit approaches, which are trained to regress the signed distance values, DMTet directly optimizes for the reconstructed surface, which enables us to synthesize finer geometric details with fewer artifacts. Unlike deep 3D generative models that directly generate explicit representations such as meshes, our model can synthesize shapes with arbitrary topology. The core of DMTet includes a deformable tetrahedral grid that encodes a discretized signed distance function and a differentiable marching tetrahedra layer that converts the implicit signed distance representation to the explicit surface mesh representation. This combination allows joint optimization of the surface geometry and topology as well as generation of the hierarchy of subdivisions using reconstruction and adversarial losses defined explicitly on the surface mesh. Our approach significantly outperforms existing work on conditional shape synthesis from coarse voxel inputs, trained on a dataset of complex 3D animal shapes.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">NeurIPS 2021</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/neurips_2021_deep_marching_tetrahedra/&amp;text=Deep%20Marching%20Tetrahedra:%20a%20Hybrid%20Representation%20for%20High-Resolution%203D%20Shape%20Synthesis" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/neurips_2021_deep_marching_tetrahedra/&amp;t=Deep%20Marching%20Tetrahedra:%20a%20Hybrid%20Representation%20for%20High-Resolution%203D%20Shape%20Synthesis" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Deep%20Marching%20Tetrahedra:%20a%20Hybrid%20Representation%20for%20High-Resolution%203D%20Shape%20Synthesis&amp;body=/publication/neurips_2021_deep_marching_tetrahedra/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/neurips_2021_deep_marching_tetrahedra/&amp;title=Deep%20Marching%20Tetrahedra:%20a%20Hybrid%20Representation%20for%20High-Resolution%203D%20Shape%20Synthesis" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Deep%20Marching%20Tetrahedra:%20a%20Hybrid%20Representation%20for%20High-Resolution%203D%20Shape%20Synthesis%20/publication/neurips_2021_deep_marching_tetrahedra/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/neurips_2021_deep_marching_tetrahedra/&amp;title=Deep%20Marching%20Tetrahedra:%20a%20Hybrid%20Representation%20for%20High-Resolution%203D%20Shape%20Synthesis" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/iccv_2021_3dstylenet/">3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations</a></li>
+      
+      <li><a href="/publication/datasetgan/">DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</a></li>
+      
+      <li><a href="/publication/neurips_2021_dibr/">DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</a></li>
+      
+      <li><a href="/publication/nglod/">Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces</a></li>
+      
+      <li><a href="/publication/iclr_2021_ganverse3d/">Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering</a></li>
+      
+    </ul>
   </div>
-</section>
+  
+
+
+
+
+
+  </div>
+</div>
 
       
 
