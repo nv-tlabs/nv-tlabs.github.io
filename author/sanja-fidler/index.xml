@@ -5,12 +5,28 @@
     <link>/author/sanja-fidler/</link>
       <atom:link href="/author/sanja-fidler/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanja Fidler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 10:24:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Sanja Fidler</title>
       <link>/author/sanja-fidler/</link>
     </image>
+    
+    <item>
+      <title>Domain Adversarial Training: A Game Perspective</title>
+      <link>/publication/2022_iclr_game/</link>
+      <pubDate>Wed, 02 Feb 2022 10:24:59 -0400</pubDate>
+      <guid>/publication/2022_iclr_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach</title>
+      <link>/publication/2022_iclr_active_learning/</link>
+      <pubDate>Wed, 02 Feb 2022 10:23:59 -0400</pubDate>
+      <guid>/publication/2022_iclr_active_learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ATISS: Autoregressive Transformers for Indoor Scene Synthesis</title>

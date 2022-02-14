@@ -5,12 +5,44 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Dec 2021 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 11:24:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Score-Based Generative Modeling with Critically-Damped Langevin Diffusion</title>
+      <link>/publication/2022_langevin_diffusion/</link>
+      <pubDate>Wed, 02 Feb 2022 11:24:59 -0400</pubDate>
+      <guid>/publication/2022_langevin_diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling the Generative Learning Trilemma with Denoising Diffusion GANs</title>
+      <link>/publication/2022_trilemma/</link>
+      <pubDate>Wed, 02 Feb 2022 11:24:58 -0400</pubDate>
+      <guid>/publication/2022_trilemma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adversarial Training: A Game Perspective</title>
+      <link>/publication/2022_iclr_game/</link>
+      <pubDate>Wed, 02 Feb 2022 10:24:59 -0400</pubDate>
+      <guid>/publication/2022_iclr_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach</title>
+      <link>/publication/2022_iclr_active_learning/</link>
+      <pubDate>Wed, 02 Feb 2022 10:23:59 -0400</pubDate>
+      <guid>/publication/2022_iclr_active_learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Spectral Unions of Partial Deformable 3D Shapes</title>

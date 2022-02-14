@@ -103,10 +103,58 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-12-02T11:23:59-04:00</lastmod>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/arash-vahdat/</loc>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-12-02T11:23:59-04:00</lastmod>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/karsten-kreis/</loc>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_langevin_diffusion/</loc>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/tim-dockhorn/</loc>
+    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_trilemma/</loc>
+    <lastmod>2022-02-02T11:24:58-04:00</lastmod>
+  </url><url>
+    <loc>/author/zhisheng-xiao/</loc>
+    <lastmod>2022-02-02T11:24:58-04:00</lastmod>
+  </url><url>
+    <loc>/author/david-acuna/</loc>
+    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_iclr_game/</loc>
+    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/guojun-zhang/</loc>
+    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/marc-t.-law/</loc>
+    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_iclr_active_learning/</loc>
+    <lastmod>2022-02-02T10:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/rafid-mahmood/</loc>
+    <lastmod>2022-02-02T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/emanuele-rodola/</loc>
     <lastmod>2021-12-02T11:23:59-04:00</lastmod>
@@ -126,16 +174,7 @@
     <loc>/author/maks-ovsjanikov/</loc>
     <lastmod>2021-12-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-12-02T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/or-litany/</loc>
-    <lastmod>2021-12-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-12-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2021-12-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/simone-melzi/</loc>
@@ -171,13 +210,7 @@
     <loc>/author/despoina-paschalidou/</loc>
     <lastmod>2021-11-01T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/karsten-kreis/</loc>
-    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/maria-shugrina/</loc>
-    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2021-11-01T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_deep_marching_tetrahedra/</loc>
@@ -195,26 +228,17 @@
     <loc>/author/tianchang-shen/</loc>
     <lastmod>2021-11-01T11:23:58-04:00</lastmod>
   </url><url>
-    <loc>/author/arash-vahdat/</loc>
-    <lastmod>2021-11-01T10:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/jan-kautz/</loc>
     <lastmod>2021-11-01T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_lsgm/</loc>
     <lastmod>2021-11-01T10:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/david-acuna/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/jonah-philion/</loc>
     <lastmod>2021-10-31T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_simulation_strategies/</loc>
     <lastmod>2021-10-31T10:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/marc-t.-law/</loc>
-    <lastmod>2021-10-31T10:22:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_ultrahyperbolic/</loc>
     <lastmod>2021-10-31T10:22:59-04:00</lastmod>
@@ -339,9 +363,6 @@
     <loc>/publication/icml_2021_fdal/</loc>
     <lastmod>2021-07-12T10:22:59-04:00</lastmod>
   </url><url>
-    <loc>/author/guojun-zhang/</loc>
-    <lastmod>2021-07-12T10:22:59-04:00</lastmod>
-  </url><url>
     <loc>/author/anima-anandkumar/</loc>
     <lastmod>2021-07-12T10:22:59-03:00</lastmod>
   </url><url>
@@ -436,9 +457,6 @@
     <lastmod>2021-02-13T10:22:59-04:00</lastmod>
   </url><url>
     <loc>/publication/iclr_2021_-vaebm/</loc>
-    <lastmod>2021-02-13T10:22:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/zhisheng-xiao/</loc>
     <lastmod>2021-02-13T10:22:58-04:00</lastmod>
   </url><url>
     <loc>/author/breandan-considine/</loc>

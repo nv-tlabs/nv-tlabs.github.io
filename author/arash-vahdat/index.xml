@@ -5,12 +5,28 @@
     <link>/author/arash-vahdat/</link>
       <atom:link href="/author/arash-vahdat/index.xml" rel="self" type="application/rss+xml" />
     <description>Arash Vahdat</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 10:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 11:24:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Arash Vahdat</title>
       <link>/author/arash-vahdat/</link>
     </image>
+    
+    <item>
+      <title>Score-Based Generative Modeling with Critically-Damped Langevin Diffusion</title>
+      <link>/publication/2022_langevin_diffusion/</link>
+      <pubDate>Wed, 02 Feb 2022 11:24:59 -0400</pubDate>
+      <guid>/publication/2022_langevin_diffusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tackling the Generative Learning Trilemma with Denoising Diffusion GANs</title>
+      <link>/publication/2022_trilemma/</link>
+      <pubDate>Wed, 02 Feb 2022 11:24:58 -0400</pubDate>
+      <guid>/publication/2022_trilemma/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Score-based Generative Modeling in Latent Space</title>
