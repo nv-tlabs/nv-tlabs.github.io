@@ -14,3 +14,24 @@
     
   </channel>
 </rss>
+uthor/kevin-xie/</link>
+    </image>
+    
+    <item>
+      <title>Physics-based Human Motion Estimation and Synthesis from Videos</title>
+      <link>/publication/iccv_2021_physics/</link>
+      <pubDate>Sun, 29 Aug 2021 10:21:58 -0400</pubDate>
+      <guid>/publication/iccv_2021_physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gradSim: Differentiable simulation for system identification and visuomotor control</title>
+      <link>/publication/iclr_2021_gradsim/</link>
+      <pubDate>Sat, 13 Feb 2021 10:22:57 -0400</pubDate>
+      <guid>/publication/iclr_2021_gradsim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
