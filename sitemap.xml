@@ -95,24 +95,69 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/davis-rempe/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_cvpr_accident_prone/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jonah-philion/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/leonidas-guibas/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/or-litany/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/alec-jacobson/</loc>
+    <lastmod>2022-05-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/derek-liu/</loc>
+    <lastmod>2022-05-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/francis-williams/</loc>
+    <lastmod>2022-05-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_siggraph_smooth_neural_functions/</loc>
+    <lastmod>2022-05-02T11:24:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_siggraph_ase/</loc>
+    <lastmod>2022-05-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/lina-halper/</loc>
+    <lastmod>2022-05-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sergey-levine/</loc>
+    <lastmod>2022-05-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/xue-bin-peng/</loc>
+    <lastmod>2022-05-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/yunrong-guo/</loc>
+    <lastmod>2022-05-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/arash-vahdat/</loc>
     <lastmod>2022-02-02T11:24:59-04:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
-  </url><url>
     <loc>/author/karsten-kreis/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2022-02-02T11:24:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_langevin_diffusion/</loc>
@@ -139,9 +184,6 @@
     <loc>/author/marc-t.-law/</loc>
     <lastmod>2022-02-02T10:24:59-04:00</lastmod>
   </url><url>
-    <loc>/author/sanja-fidler/</loc>
-    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/2022_iclr_active_learning/</loc>
     <lastmod>2022-02-02T10:23:59-04:00</lastmod>
   </url><url>
@@ -154,9 +196,6 @@
     <loc>/author/filippo-maggioli/</loc>
     <lastmod>2021-12-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/leonidas-guibas/</loc>
-    <lastmod>2021-12-02T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/luca-cosmo/</loc>
     <lastmod>2021-12-02T11:23:59-04:00</lastmod>
   </url><url>
@@ -164,9 +203,6 @@
     <lastmod>2021-12-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/maks-ovsjanikov/</loc>
-    <lastmod>2021-12-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/or-litany/</loc>
     <lastmod>2021-12-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/simone-melzi/</loc>
@@ -225,9 +261,6 @@
   </url><url>
     <loc>/publication/neurips_2021_lsgm/</loc>
     <lastmod>2021-11-01T10:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/jonah-philion/</loc>
-    <lastmod>2021-10-31T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_simulation_strategies/</loc>
     <lastmod>2021-10-31T10:23:59-04:00</lastmod>
@@ -328,9 +361,6 @@
     <loc>/author/umar-iqbal/</loc>
     <lastmod>2021-08-29T10:21:58-04:00</lastmod>
   </url><url>
-    <loc>/author/yunrong-guo/</loc>
-    <lastmod>2021-08-29T10:21:58-04:00</lastmod>
-  </url><url>
     <loc>/author/aayush-prakash/</loc>
     <lastmod>2021-08-21T10:21:59-04:00</lastmod>
   </url><url>
@@ -377,9 +407,6 @@
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/adela-barriuso/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/alec-jacobson/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/charles-loop/</loc>

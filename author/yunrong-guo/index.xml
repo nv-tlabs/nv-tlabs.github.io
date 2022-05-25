@@ -5,12 +5,20 @@
     <link>/author/yunrong-guo/</link>
       <atom:link href="/author/yunrong-guo/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunrong Guo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Aug 2021 10:21:58 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 02 May 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Yunrong Guo</title>
       <link>/author/yunrong-guo/</link>
     </image>
+    
+    <item>
+      <title>ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters</title>
+      <link>/publication/2022_siggraph_ase/</link>
+      <pubDate>Mon, 02 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_siggraph_ase/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Physics-based Human Motion Estimation and Synthesis from Videos</title>
