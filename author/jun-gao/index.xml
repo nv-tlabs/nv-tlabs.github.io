@@ -5,12 +5,76 @@
     <link>/author/jun-gao/</link>
       <atom:link href="/author/jun-gao/index.xml" rel="self" type="application/rss+xml" />
     <description>Jun Gao</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Jun Gao</title>
       <link>/author/jun-gao/</link>
     </image>
+    
+    <item>
+      <title>Extracting Triangular 3D Models, Materials, and Lighting From Images</title>
+      <link>/publication/2022_cvpr_triangular/</link>
+      <pubDate>Sat, 21 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_triangular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis</title>
+      <link>/publication/neurips_2021_deep_marching_tetrahedra/</link>
+      <pubDate>Mon, 01 Nov 2021 11:23:58 -0400</pubDate>
+      <guid>/publication/neurips_2021_deep_marching_tetrahedra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</title>
+      <link>/publication/neurips_2021_dibr/</link>
+      <pubDate>Sun, 31 Oct 2021 10:22:58 -0400</pubDate>
+      <guid>/publication/neurips_2021_dibr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations</title>
+      <link>/publication/iccv_2021_3dstylenet/</link>
+      <pubDate>Mon, 30 Aug 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/iccv_2021_3dstylenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</title>
+      <link>/publication/datasetgan/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/datasetgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering</title>
+      <link>/publication/iclr_2021_ganverse3d/</link>
+      <pubDate>Sat, 13 Feb 2021 10:22:59 -0400</pubDate>
+      <guid>/publication/iclr_2021_ganverse3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Deformable Tetrahedral Meshes for 3D Reconstruction</title>
+      <link>/publication/def-tet/</link>
+      <pubDate>Fri, 02 Oct 2020 11:09:21 -0400</pubDate>
+      <guid>/publication/def-tet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Predict 3D Objects with an Interpolation-based Differentiable Renderer</title>
+      <link>/publication/dib-r/</link>
+      <pubDate>Fri, 16 Aug 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/dib-r/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

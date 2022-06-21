@@ -154,6 +154,9 @@
     <loc>/author/adela-barriuso/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/publication/2022_cvpr_auv/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/publication/2022_cvpr_big_datasetgan/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
@@ -193,6 +196,9 @@
     <loc>/author/jose-m.-alvarez/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/kangxue-yin/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/koki-nagano/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
@@ -224,6 +230,9 @@
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/zhiding-yu/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/zhiqin-chen/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/alec-jacobson/</loc>
@@ -326,9 +335,6 @@
     <lastmod>2021-11-01T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_deep_marching_tetrahedra/</loc>
-    <lastmod>2021-11-01T11:23:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/kangxue-yin/</loc>
     <lastmod>2021-11-01T11:23:58-04:00</lastmod>
   </url><url>
     <loc>/author/ming-yu-liu/</loc>
