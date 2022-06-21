@@ -112,6 +112,9 @@
     <loc>/author/daiqing-li/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/david-acuna/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/davis-rempe/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
@@ -127,13 +130,22 @@
     <loc>/publication/2022_cvpr_accident_prone/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/publication/2022_cvpr_how_much_data/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/huan-ling/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/james-lucas/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/joan-bruna/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/jonah-philion/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jose-m.-alvarez/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/karsten-kreis/</loc>
@@ -143,6 +155,9 @@
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/leonidas-guibas/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/marc-t.-law/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/matan-atzmon/</loc>
@@ -163,6 +178,9 @@
     <loc>/publication/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/rafid-mahmood/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/sameh-khamis/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
@@ -176,6 +194,9 @@
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/zan-gojcic/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/zhiding-yu/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/alec-jacobson/</loc>
@@ -217,22 +238,13 @@
     <loc>/author/zhisheng-xiao/</loc>
     <lastmod>2022-02-02T11:24:58-04:00</lastmod>
   </url><url>
-    <loc>/author/david-acuna/</loc>
-    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/2022_iclr_game/</loc>
     <lastmod>2022-02-02T10:24:59-04:00</lastmod>
   </url><url>
     <loc>/author/guojun-zhang/</loc>
     <lastmod>2022-02-02T10:24:59-04:00</lastmod>
   </url><url>
-    <loc>/author/marc-t.-law/</loc>
-    <lastmod>2022-02-02T10:24:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/2022_iclr_active_learning/</loc>
-    <lastmod>2022-02-02T10:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/rafid-mahmood/</loc>
     <lastmod>2022-02-02T10:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/emanuele-rodola/</loc>
@@ -421,16 +433,10 @@
     <loc>/publication/icml_2021_long_tail/</loc>
     <lastmod>2021-07-12T10:22:59-03:00</lastmod>
   </url><url>
-    <loc>/author/jose-m.-alvarez/</loc>
-    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
-  </url><url>
     <loc>/author/nadine-chang/</loc>
     <lastmod>2021-07-12T10:22:59-03:00</lastmod>
   </url><url>
     <loc>/author/yu-xiong-wang/</loc>
-    <lastmod>2021-07-12T10:22:59-03:00</lastmod>
-  </url><url>
-    <loc>/author/zhiding-yu/</loc>
     <lastmod>2021-07-12T10:22:59-03:00</lastmod>
   </url><url>
     <loc>/publication-type/3/</loc>
