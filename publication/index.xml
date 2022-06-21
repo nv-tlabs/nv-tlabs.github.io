@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 22 May 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Polymorphic-GAN: Generating Aligned Samples across Multiple Domains with Learned Morph Maps</title>
+      <link>/publication/2022_cvpr_polymorphic_gan/</link>
+      <pubDate>Sun, 22 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_polymorphic_gan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extracting Triangular 3D Models, Materials, and Lighting From Images</title>
+      <link>/publication/2022_cvpr_triangular/</link>
+      <pubDate>Sat, 21 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_triangular/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations</title>

@@ -5,12 +5,20 @@
     <link>/author/james-lucas/</link>
       <atom:link href="/author/james-lucas/index.xml" rel="self" type="application/rss+xml" />
     <description>James Lucas</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>James Lucas</title>
       <link>/author/james-lucas/</link>
     </image>
+    
+    <item>
+      <title>How Much More Data Do I Need? Estimating Requirements for Downstream Tasks</title>
+      <link>/publication/2022_cvpr_how_much_data/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_how_much_data/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

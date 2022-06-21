@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Müller | NVIDIA Toronto AI Lab</title>
+    <link>/author/thomas-muller/</link>
+      <atom:link href="/author/thomas-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Müller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 11:23:59 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>Thomas Müller</title>
+      <link>/author/thomas-muller/</link>
+    </image>
+    
+    <item>
+      <title>Extracting Triangular 3D Models, Materials, and Lighting From Images</title>
+      <link>/publication/2022_cvpr_triangular/</link>
+      <pubDate>Sat, 21 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_triangular/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
