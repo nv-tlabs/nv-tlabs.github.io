@@ -115,10 +115,19 @@
     <loc>/author/davis-rempe/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/denis-zorin/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/francis-williams/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/publication/2022_cvpr_accident_prone/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/huan-ling/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/joan-bruna/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/jonah-philion/</loc>
@@ -128,6 +137,9 @@
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/leonidas-guibas/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_cvpr_-nkf/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -142,19 +154,22 @@
     <loc>/publication/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/sameh-khamis/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/sanja-fidler/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/seung-wook-kim/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/zan-gojcic/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/alec-jacobson/</loc>
     <lastmod>2022-05-02T11:24:59-04:00</lastmod>
   </url><url>
     <loc>/author/derek-liu/</loc>
-    <lastmod>2022-05-02T11:24:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/francis-williams/</loc>
     <lastmod>2022-05-02T11:24:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_siggraph_smooth_neural_functions/</loc>
@@ -293,9 +308,6 @@
     <lastmod>2021-10-31T10:22:58-04:00</lastmod>
   </url><url>
     <loc>/author/joey-litalien/</loc>
-    <lastmod>2021-10-31T10:22:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/sameh-khamis/</loc>
     <lastmod>2021-10-31T10:22:58-04:00</lastmod>
   </url><url>
     <loc>/author/wenzheng-chen/</loc>
@@ -446,9 +458,6 @@
     <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/cvpr_2021_weakly_supervised_rigid/</loc>
-    <lastmod>2021-04-14T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/zan-gojcic/</loc>
     <lastmod>2021-04-14T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/junlin-yang/</loc>
