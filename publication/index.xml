@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Frame Averaging for Equivariant Shape Space Learning</title>
+      <link>/publication/2022_cvpr_equivarient/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_equivarient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior</title>
       <link>/publication/2022_cvpr_accident_prone/</link>
       <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
@@ -30,9 +38,9 @@
     
     <item>
       <title>Neural Fields as Learnable Kernels for 3D Reconstruction</title>
-      <link>/publication/2022_cvpr_-nkf/</link>
+      <link>/publication/2022_cvpr_nkf/</link>
       <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_cvpr_-nkf/</guid>
+      <guid>/publication/2022_cvpr_nkf/</guid>
       <description></description>
     </item>
     
