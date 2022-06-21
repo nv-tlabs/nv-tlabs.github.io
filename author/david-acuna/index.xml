@@ -5,12 +5,76 @@
     <link>/author/david-acuna/</link>
       <atom:link href="/author/david-acuna/index.xml" rel="self" type="application/rss+xml" />
     <description>David Acuna</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Feb 2022 10:24:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>David Acuna</title>
       <link>/author/david-acuna/</link>
     </image>
+    
+    <item>
+      <title>Domain Adversarial Training: A Game Perspective</title>
+      <link>/publication/2022_iclr_game/</link>
+      <pubDate>Wed, 02 Feb 2022 10:24:59 -0400</pubDate>
+      <guid>/publication/2022_iclr_game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation</title>
+      <link>/publication/neurips_2021_simulation_strategies/</link>
+      <pubDate>Sun, 31 Oct 2021 10:23:59 -0400</pubDate>
+      <guid>/publication/neurips_2021_simulation_strategies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>f-Domain-Adversarial Learning: Theory and Algorithms</title>
+      <link>/publication/icml_2021_fdal/</link>
+      <pubDate>Mon, 12 Jul 2021 10:22:59 -0400</pubDate>
+      <guid>/publication/icml_2021_fdal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Amodal Object Completion</title>
+      <link>/publication/variational_amodal_object_completion/</link>
+      <pubDate>Tue, 13 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/variational_amodal_object_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Turtle Graphics for Modeling City Road Layouts</title>
+      <link>/publication/ntg/</link>
+      <pubDate>Wed, 31 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/ntg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta Sim: Learning to Generate Synthetic Datasets</title>
+      <link>/publication/meta_sim/</link>
+      <pubDate>Sat, 20 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/meta_sim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated-SCNN Gated Shape CNNs for Semantic Segmentation</title>
+      <link>/publication/gscnn/</link>
+      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/gscnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations</title>
+      <link>/publication/steal/</link>
+      <pubDate>Tue, 16 Apr 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/steal/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
