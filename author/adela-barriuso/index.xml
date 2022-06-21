@@ -5,12 +5,20 @@
     <link>/author/adela-barriuso/</link>
       <atom:link href="/author/adela-barriuso/index.xml" rel="self" type="application/rss+xml" />
     <description>Adela Barriuso</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 10:21:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Adela Barriuso</title>
       <link>/author/adela-barriuso/</link>
     </image>
+    
+    <item>
+      <title>BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations</title>
+      <link>/publication/2022_cvpr_big_datasetgan/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_big_datasetgan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</title>

@@ -14,3 +14,48 @@
     
   </channel>
 </rss>
+/seung-wook-kim/</link>
+    </image>
+    
+    <item>
+      <title>BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations</title>
+      <link>/publication/2022_cvpr_big_datasetgan/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_big_datasetgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EditGAN: High-Precision Semantic Image Editing</title>
+      <link>/publication/neurips_2021_editgan/</link>
+      <pubDate>Sun, 31 Oct 2021 10:21:58 -0400</pubDate>
+      <guid>/publication/neurips_2021_editgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DriveGAN: Towards a Controllable High-Quality Neural Simulation</title>
+      <link>/publication/cvpr_2021_drivegan/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_drivegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Amodal Object Completion</title>
+      <link>/publication/variational_amodal_object_completion/</link>
+      <pubDate>Tue, 13 Oct 2020 01:33:07 -0400</pubDate>
+      <guid>/publication/variational_amodal_object_completion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Simulate Dynamic Environments with GameGAN</title>
+      <link>/publication/gamegan/</link>
+      <pubDate>Fri, 22 May 2020 10:21:59 -0400</pubDate>
+      <guid>/publication/gamegan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

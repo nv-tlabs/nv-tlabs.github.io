@@ -97,7 +97,19 @@
     <loc>/publication-type/1/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/adela-barriuso/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/antonio-torralba/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_cvpr_big_datasetgan/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/daiqing-li/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/davis-rempe/</loc>
@@ -106,7 +118,13 @@
     <loc>/publication/2022_cvpr_accident_prone/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/huan-ling/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/jonah-philion/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/karsten-kreis/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/leonidas-guibas/</loc>
@@ -125,6 +143,9 @@
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/sanja-fidler/</loc>
+    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/seung-wook-kim/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/alec-jacobson/</loc>
@@ -155,9 +176,6 @@
     <lastmod>2022-05-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/arash-vahdat/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/karsten-kreis/</loc>
     <lastmod>2022-02-02T11:24:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_langevin_diffusion/</loc>
@@ -295,19 +313,7 @@
     <loc>/author/tianshi-cao/</loc>
     <lastmod>2021-10-31T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/author/antonio-torralba/</loc>
-    <lastmod>2021-10-31T10:21:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/daiqing-li/</loc>
-    <lastmod>2021-10-31T10:21:58-04:00</lastmod>
-  </url><url>
     <loc>/publication/neurips_2021_editgan/</loc>
-    <lastmod>2021-10-31T10:21:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/huan-ling/</loc>
-    <lastmod>2021-10-31T10:21:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/seung-wook-kim/</loc>
     <lastmod>2021-10-31T10:21:58-04:00</lastmod>
   </url><url>
     <loc>/author/alexey-nekrasov/</loc>
@@ -404,9 +410,6 @@
     <lastmod>2021-07-12T10:22:59-03:00</lastmod>
   </url><url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/adela-barriuso/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/charles-loop/</loc>

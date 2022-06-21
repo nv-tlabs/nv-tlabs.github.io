@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="Labelling data is expensive and time consuming especially for domains such as medical imaging that contain volumetric imaging data and require expert knowledge. Exploiting a larger pool of labeled data available across multiple centers, such as in federated learning, has also seen limited success since current deep learning approaches do not generalize well to images acquired with scanners from different manufacturers. We aim to address these problems in a common, learning-based image simulation framework which we refer to as Federated Simulation. We introduce a physics-driven generative approach that consists of two learnable neural modules: 1) a module that synthesizes 3D cardiac shapes along with their materials, and 2) a CT simulator that renders these into realistic 3D CT Volumes, with annotations. Since the model of geometry and material is disentangled from the imaging sensor, it can effectively be trained across multiple medical centers. We show that our data synthesis framework improves the downstream segmentation performance on several datasets.">
+  <meta name="description" content="Annotating images with pixel-wise labels is a time-consuming and costly process. Recently, DatasetGAN showcased a promising alternative - to synthesize a large labeled dataset via a generative adversarial network (GAN) by exploiting a small set of manually labeled, GAN-generated images. Here, we scale DatasetGAN to ImageNet scale of class diversity. We take image samples from the class-conditional generative model BigGAN trained on ImageNet, and manually annotate 5 images per class, for all 1k classes. By training an effective feature segmentation architecture on top of BigGAN, we turn BigGAN into a labeled dataset generator. We further show that VQGAN can similarly serve as a dataset generator, leveraging the already annotated data. We create a new ImageNet benchmark by labeling an additional set of 8k real images and evaluate segmentation performance in a variety of settings. Through an extensive ablation study we show big gains in leveraging a large generated dataset to train different supervised and self-supervised backbone models on pixel-wise tasks. Furthermore, we demonstrate that using our synthesized datasets for pre-training leads to improvements over standard ImageNet pre-training on several downstream datasets, such as PASCAL-VOC, MS-COCO, Cityscapes and chest X-ray, as well as tasks (detection, segmentation). Our benchmark will be made public and maintain a leaderboard for this challenging task">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication/fed-sim/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2022_cvpr_big_datasetgan/">
 
   
 
@@ -257,7 +257,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication/fed-sim/">
+  <link rel="canonical" href="/publication/2022_cvpr_big_datasetgan/">
 
   
   
@@ -272,15 +272,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="NVIDIA Toronto AI Lab">
-  <meta property="og:url" content="/publication/fed-sim/">
-  <meta property="og:title" content="Federated Simulation or Medical Imaging | NVIDIA Toronto AI Lab">
-  <meta property="og:description" content="Labelling data is expensive and time consuming especially for domains such as medical imaging that contain volumetric imaging data and require expert knowledge. Exploiting a larger pool of labeled data available across multiple centers, such as in federated learning, has also seen limited success since current deep learning approaches do not generalize well to images acquired with scanners from different manufacturers. We aim to address these problems in a common, learning-based image simulation framework which we refer to as Federated Simulation. We introduce a physics-driven generative approach that consists of two learnable neural modules: 1) a module that synthesizes 3D cardiac shapes along with their materials, and 2) a CT simulator that renders these into realistic 3D CT Volumes, with annotations. Since the model of geometry and material is disentangled from the imaging sensor, it can effectively be trained across multiple medical centers. We show that our data synthesis framework improves the downstream segmentation performance on several datasets."><meta property="og:image" content="/publication/fed-sim/featured.png">
-  <meta property="twitter:image" content="/publication/fed-sim/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/2022_cvpr_big_datasetgan/">
+  <meta property="og:title" content="BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations | NVIDIA Toronto AI Lab">
+  <meta property="og:description" content="Annotating images with pixel-wise labels is a time-consuming and costly process. Recently, DatasetGAN showcased a promising alternative - to synthesize a large labeled dataset via a generative adversarial network (GAN) by exploiting a small set of manually labeled, GAN-generated images. Here, we scale DatasetGAN to ImageNet scale of class diversity. We take image samples from the class-conditional generative model BigGAN trained on ImageNet, and manually annotate 5 images per class, for all 1k classes. By training an effective feature segmentation architecture on top of BigGAN, we turn BigGAN into a labeled dataset generator. We further show that VQGAN can similarly serve as a dataset generator, leveraging the already annotated data. We create a new ImageNet benchmark by labeling an additional set of 8k real images and evaluate segmentation performance in a variety of settings. Through an extensive ablation study we show big gains in leveraging a large generated dataset to train different supervised and self-supervised backbone models on pixel-wise tasks. Furthermore, we demonstrate that using our synthesized datasets for pre-training leads to improvements over standard ImageNet pre-training on several downstream datasets, such as PASCAL-VOC, MS-COCO, Cityscapes and chest X-ray, as well as tasks (detection, segmentation). Our benchmark will be made public and maintain a leaderboard for this challenging task"><meta property="og:image" content="/publication/2022_cvpr_big_datasetgan/featured.jpg">
+  <meta property="twitter:image" content="/publication/2022_cvpr_big_datasetgan/featured.jpg"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-10-01T10:58:41-04:00">
+      <meta property="article:published_time" content="2022-05-20T11:23:59-04:00">
     
-    <meta property="article:modified_time" content="2020-10-01T10:58:41-04:00">
+    <meta property="article:modified_time" content="2022-05-20T11:23:59-04:00">
   
 
   
@@ -302,16 +302,16 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "/publication/fed-sim/"
+    "@id": "/publication/2022_cvpr_big_datasetgan/"
   },
-  "headline": "Federated Simulation or Medical Imaging",
+  "headline": "BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations",
   
   "image": [
-    "/publication/fed-sim/featured.png"
+    "/publication/2022_cvpr_big_datasetgan/featured.jpg"
   ],
   
-  "datePublished": "2020-10-01T10:58:41-04:00",
-  "dateModified": "2020-10-01T10:58:41-04:00",
+  "datePublished": "2022-05-20T11:23:59-04:00",
+  "dateModified": "2022-05-20T11:23:59-04:00",
   
   "author": {
     "@type": "Person",
@@ -326,7 +326,7 @@
       "url": "/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fit_lanczos_2.png"
     }
   },
-  "description": "Labelling data is expensive and time consuming especially for domains such as medical imaging that contain volumetric imaging data and require expert knowledge. Exploiting a larger pool of labeled data available across multiple centers, such as in federated learning, has also seen limited success since current deep learning approaches do not generalize well to images acquired with scanners from different manufacturers. We aim to address these problems in a common, learning-based image simulation framework which we refer to as Federated Simulation. We introduce a physics-driven generative approach that consists of two learnable neural modules: 1) a module that synthesizes 3D cardiac shapes along with their materials, and 2) a CT simulator that renders these into realistic 3D CT Volumes, with annotations. Since the model of geometry and material is disentangled from the imaging sensor, it can effectively be trained across multiple medical centers. We show that our data synthesis framework improves the downstream segmentation performance on several datasets."
+  "description": "Annotating images with pixel-wise labels is a time-consuming and costly process. Recently, DatasetGAN showcased a promising alternative - to synthesize a large labeled dataset via a generative adversarial network (GAN) by exploiting a small set of manually labeled, GAN-generated images. Here, we scale DatasetGAN to ImageNet scale of class diversity. We take image samples from the class-conditional generative model BigGAN trained on ImageNet, and manually annotate 5 images per class, for all 1k classes. By training an effective feature segmentation architecture on top of BigGAN, we turn BigGAN into a labeled dataset generator. We further show that VQGAN can similarly serve as a dataset generator, leveraging the already annotated data. We create a new ImageNet benchmark by labeling an additional set of 8k real images and evaluate segmentation performance in a variety of settings. Through an extensive ablation study we show big gains in leveraging a large generated dataset to train different supervised and self-supervised backbone models on pixel-wise tasks. Furthermore, we demonstrate that using our synthesized datasets for pre-training leads to improvements over standard ImageNet pre-training on several downstream datasets, such as PASCAL-VOC, MS-COCO, Cityscapes and chest X-ray, as well as tasks (detection, segmentation). Our benchmark will be made public and maintain a leaderboard for this challenging task"
 }
 </script>
 
@@ -344,7 +344,7 @@
 
 
 
-  <title>Federated Simulation or Medical Imaging | NVIDIA Toronto AI Lab</title>
+  <title>BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations | NVIDIA Toronto AI Lab</title>
 
 </head>
 
@@ -756,26 +756,18 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations</h1>
+
+  
+
   
     
-  
-
-
-<div class="article-container pt-3">
-  <h1>Federated Simulation or Medical Imaging</h1>
-
-  
-
-  
 
 
 <div class="article-metadata">
@@ -788,7 +780,7 @@
     
 
   
-  <span ><a href="/author/daiqing-li/">Daiqing Li</a></span>, <span ><a href="/author/amlan-kar/">Amlan Kar</a></span>, <span ><a href="/author/nishant-ravikumar/">Nishant Ravikumar</a></span>, <span ><a href="/author/alejandro-frangi/">Alejandro Frangi</a></span>, <span ><a href="/author/sanja-fidler/">Sanja Fidler</a></span>
+  <span ><a href="/author/daiqing-li/">Daiqing Li</a></span>, <span ><a href="/author/huan-ling/">Huan Ling</a></span>, <span ><a href="/author/seung-wook-kim/">Seung Wook Kim</a></span>, <span ><a href="/author/karsten-kreis/">Karsten Kreis</a></span>, <span ><a href="/author/adela-barriuso/">Adela Barriuso</a></span>, <span ><a href="/author/sanja-fidler/">Sanja Fidler</a></span>, <span ><a href="/author/antonio-torralba/">Antonio Torralba</a></span>
   </div>
   
   
@@ -799,7 +791,7 @@
     
       
     
-    October 2020
+    May 2022
   </span>
   
 
@@ -813,14 +805,10 @@
 
   
   
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/category/medical-imaging/">Medical Imaging</a></span>
-  
 
 </div>
 
-  
+    
 
 
 
@@ -851,17 +839,25 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2009.00668" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2201.04684" target="_blank" rel="noopener">
   PDF
 </a>
 
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/nv-tlabs/bigdatasetgan_code" target="_blank" rel="noopener">
+  Code
+</a>
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://nv-tlabs.github.io/fed-sim/" target="_blank" rel="noopener">
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://nv-tlabs.github.io/big-datasetgan/" target="_blank" rel="noopener">
   Project
 </a>
 
@@ -878,14 +874,7 @@
 </div>
 
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 245px;">
-  <div style="position: relative">
-    <img src="/publication/fed-sim/featured_huc4c5cbc1a62061f28969757de5011f00_205794_720x0_resize_lanczos_2.png" alt="" class="featured-image">
-    
-  </div>
+  
 </div>
 
 
@@ -894,7 +883,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Labelling data is expensive and time consuming especially for domains such as medical imaging that contain volumetric imaging data and require expert knowledge. Exploiting a larger pool of labeled data available across multiple centers, such as in federated learning, has also seen limited success since current deep learning approaches do not generalize well to images acquired with scanners from different manufacturers. We aim to address these problems in a common, learning-based image simulation framework which we refer to as Federated Simulation. We introduce a physics-driven generative approach that consists of two learnable neural modules: 1) a module that synthesizes 3D cardiac shapes along with their materials, and 2) a CT simulator that renders these into realistic 3D CT Volumes, with annotations. Since the model of geometry and material is disentangled from the imaging sensor, it can effectively be trained across multiple medical centers. We show that our data synthesis framework improves the downstream segmentation performance on several datasets.</p>
+    <p class="pub-abstract">Annotating images with pixel-wise labels is a time-consuming and costly process. Recently, DatasetGAN showcased a promising alternative - to synthesize a large labeled dataset via a generative adversarial network (GAN) by exploiting a small set of manually labeled, GAN-generated images. Here, we scale DatasetGAN to ImageNet scale of class diversity. We take image samples from the class-conditional generative model BigGAN trained on ImageNet, and manually annotate 5 images per class, for all 1k classes. By training an effective feature segmentation architecture on top of BigGAN, we turn BigGAN into a labeled dataset generator. We further show that VQGAN can similarly serve as a dataset generator, leveraging the already annotated data. We create a new ImageNet benchmark by labeling an additional set of 8k real images and evaluate segmentation performance in a variety of settings. Through an extensive ablation study we show big gains in leveraging a large generated dataset to train different supervised and self-supervised backbone models on pixel-wise tasks. Furthermore, we demonstrate that using our synthesized datasets for pre-training leads to improvements over standard ImageNet pre-training on several downstream datasets, such as PASCAL-VOC, MS-COCO, Cityscapes and chest X-ray, as well as tasks (detection, segmentation). Our benchmark will be made public and maintain a leaderboard for this challenging task</p>
     
 
     
@@ -924,7 +913,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">MICCAI 2020</div>
+          <div class="col-12 col-md-9">CVPR 2022</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -943,12 +932,6 @@
 
 
 
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tag/medical-imaging/">Medical Imaging</a>
-  
-</div>
-
 
 
 <div class="share-box" aria-hidden="true">
@@ -962,7 +945,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=/publication/fed-sim/&amp;text=Federated%20Simulation%20or%20Medical%20Imaging" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=/publication/2022_cvpr_big_datasetgan/&amp;text=BigDatasetGAN:%20Synthesizing%20ImageNet%20with%20Pixel-wise%20Annotations" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -975,7 +958,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=/publication/fed-sim/&amp;t=Federated%20Simulation%20or%20Medical%20Imaging" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=/publication/2022_cvpr_big_datasetgan/&amp;t=BigDatasetGAN:%20Synthesizing%20ImageNet%20with%20Pixel-wise%20Annotations" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -988,7 +971,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Federated%20Simulation%20or%20Medical%20Imaging&amp;body=/publication/fed-sim/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=BigDatasetGAN:%20Synthesizing%20ImageNet%20with%20Pixel-wise%20Annotations&amp;body=/publication/2022_cvpr_big_datasetgan/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1001,7 +984,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=/publication/fed-sim/&amp;title=Federated%20Simulation%20or%20Medical%20Imaging" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/2022_cvpr_big_datasetgan/&amp;title=BigDatasetGAN:%20Synthesizing%20ImageNet%20with%20Pixel-wise%20Annotations" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1014,7 +997,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Federated%20Simulation%20or%20Medical%20Imaging%20/publication/fed-sim/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=BigDatasetGAN:%20Synthesizing%20ImageNet%20with%20Pixel-wise%20Annotations%20/publication/2022_cvpr_big_datasetgan/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1027,7 +1010,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=/publication/fed-sim/&amp;title=Federated%20Simulation%20or%20Medical%20Imaging" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=/publication/2022_cvpr_big_datasetgan/&amp;title=BigDatasetGAN:%20Synthesizing%20ImageNet%20with%20Pixel-wise%20Annotations" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
@@ -1077,6 +1060,18 @@
 
 
   
+    
+
+
+
+
+  
+    
+
+
+
+
+  
 
 
 
@@ -1095,15 +1090,15 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/publication/ntg/">Neural Turtle Graphics for Modeling City Road Layouts</a></li>
-      
-      <li><a href="/publication/2022_cvpr_big_datasetgan/">BigDatasetGAN: Synthesizing ImageNet with Pixel-wise Annotations</a></li>
-      
-      <li><a href="/publication/neurips_2021_atiss/">ATISS: Autoregressive Transformers for Indoor Scene Synthesis</a></li>
-      
       <li><a href="/publication/neurips_2021_editgan/">EditGAN: High-Precision Semantic Image Editing</a></li>
       
+      <li><a href="/publication/datasetgan/">DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</a></li>
+      
       <li><a href="/publication/cvpr_2021_semanticgan/">Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization</a></li>
+      
+      <li><a href="/publication/variational_amodal_object_completion/">Variational Amodal Object Completion</a></li>
+      
+      <li><a href="/publication/cvpr_2021_drivegan/">DriveGAN: Towards a Controllable High-Quality Neural Simulation</a></li>
       
     </ul>
   </div>
