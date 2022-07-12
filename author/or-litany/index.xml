@@ -5,12 +5,100 @@
     <link>/author/or-litany/</link>
       <atom:link href="/author/or-litany/index.xml" rel="self" type="application/rss+xml" />
     <description>Or Litany</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Or Litany</title>
       <link>/author/or-litany/</link>
     </image>
+    
+    <item>
+      <title>Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior</title>
+      <link>/publication/2022_cvpr_accident_prone/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_accident_prone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Fields as Learnable Kernels for 3D Reconstruction</title>
+      <link>/publication/2022_cvpr_nkf/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_nkf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Smooth Neural Functions via Lipschitz Regularization</title>
+      <link>/publication/2022_siggraph_smooth_neural_functions/</link>
+      <pubDate>Mon, 02 May 2022 11:24:59 -0400</pubDate>
+      <guid>/publication/2022_siggraph_smooth_neural_functions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Unions of Partial Deformable 3D Shapes</title>
+      <link>/publication/eurographics_2022_spectral_unions/</link>
+      <pubDate>Thu, 02 Dec 2021 11:23:59 -0400</pubDate>
+      <guid>/publication/eurographics_2022_spectral_unions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrast to Divide: Self-Supervised Pre-Training for Learning with Noisy Labels</title>
+      <link>/publication/wacv_2022_contrast_to_divide/</link>
+      <pubDate>Wed, 01 Dec 2021 11:23:59 -0400</pubDate>
+      <guid>/publication/wacv_2022_contrast_to_divide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</title>
+      <link>/publication/neurips_2021_dibr/</link>
+      <pubDate>Sun, 31 Oct 2021 10:22:58 -0400</pubDate>
+      <guid>/publication/neurips_2021_dibr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mix3D: Out-of-Context Data Augmentation for 3D Scenes</title>
+      <link>/publication/3dv_2021_mix3d/</link>
+      <pubDate>Sat, 30 Oct 2021 10:21:58 -0400</pubDate>
+      <guid>/publication/3dv_2021_mix3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vector Neurons: A General Framework for SO(3)-Equivariant Networks</title>
+      <link>/publication/iccv_2021_vector_neurons/</link>
+      <pubDate>Sun, 29 Aug 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/iccv_2021_vector_neurons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Learning of Rigid 3D Scene Flow</title>
+      <link>/publication/cvpr_2021_weakly_supervised_rigid/</link>
+      <pubDate>Wed, 14 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_weakly_supervised_rigid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection</title>
+      <link>/publication/cvpr_2021_3dioumatch/</link>
+      <pubDate>Sun, 11 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_3dioumatch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReLMoGen: Integrating Reinforcement Learning and Motion Generation for Interactive Navigation</title>
+      <link>/publication/icra_2021_relmogen/</link>
+      <pubDate>Fri, 15 Jan 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/icra_2021_relmogen/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
