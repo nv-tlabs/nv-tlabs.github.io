@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Derek Liu | NVIDIA Toronto AI Lab</title>
-    <link>/author/derek-liu/</link>
-      <atom:link href="/author/derek-liu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Derek Liu</description>
+    <title>Riccardo de Lutio | NVIDIA Toronto AI Lab</title>
+    <link>/author/riccardo-de-lutio/</link>
+      <atom:link href="/author/riccardo-de-lutio/index.xml" rel="self" type="application/rss+xml" />
+    <description>Riccardo de Lutio</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
-      <title>Derek Liu</title>
-      <link>/author/derek-liu/</link>
+      <title>Riccardo de Lutio</title>
+      <link>/author/riccardo-de-lutio/</link>
     </image>
     
   </channel>
