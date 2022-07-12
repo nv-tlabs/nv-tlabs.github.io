@@ -5,12 +5,20 @@
     <link>/author/thomas-muller/</link>
       <atom:link href="/author/thomas-muller/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Müller</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Thomas Müller</title>
       <link>/author/thomas-muller/</link>
     </image>
+    
+    <item>
+      <title>Variable Bitrate Neural Fields</title>
+      <link>/publication/2022_siggraph_variable_bitrate/</link>
+      <pubDate>Sat, 02 Jul 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_siggraph_variable_bitrate/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Extracting Triangular 3D Models, Materials, and Lighting From Images</title>

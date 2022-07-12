@@ -5,26 +5,31 @@
     <link>/author/francis-williams/</link>
       <atom:link href="/author/francis-williams/index.xml" rel="self" type="application/rss+xml" />
     <description>Francis Williams</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Francis Williams</title>
       <link>/author/francis-williams/</link>
     </image>
     
+  </channel>
+</rss>
+rancis-williams/</link>
+    </image>
+    
+    <item>
+      <title>Learning Smooth Neural Functions via Lipschitz Regularization</title>
+      <link>/publication/2022_siggraph_smooth_neural_functions/</link>
+      <pubDate>Sat, 02 Jul 2022 11:24:59 -0400</pubDate>
+      <guid>/publication/2022_siggraph_smooth_neural_functions/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Neural Fields as Learnable Kernels for 3D Reconstruction</title>
       <link>/publication/2022_cvpr_nkf/</link>
       <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
       <guid>/publication/2022_cvpr_nkf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Smooth Neural Functions via Lipschitz Regularization</title>
-      <link>/publication/2022_siggraph_smooth_neural_functions/</link>
-      <pubDate>Mon, 02 May 2022 11:24:59 -0400</pubDate>
-      <guid>/publication/2022_siggraph_smooth_neural_functions/</guid>
       <description></description>
     </item>
     
