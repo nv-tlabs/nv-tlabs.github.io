@@ -5,12 +5,20 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 11:24:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>MvDeCor: Multi-view Dense Correspondence Learning for Fine-grained 3D Segmentation</title>
+      <link>/publication/2022_eccv_vdecor/</link>
+      <pubDate>Tue, 02 Aug 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_eccv_vdecor/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Smooth Neural Functions via Lipschitz Regularization</title>
