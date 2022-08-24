@@ -121,10 +121,64 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/tag/3d/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/category/3d/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/charles-loop/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/clement-fuji-tsang/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/joey-litalien/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/jonathan-tremblay/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/publication/kaolinwisp/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/maria-shugrina/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/tag/nerf/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/category/nerf/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/or-perel/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/author/towaki-takikawa/</loc>
+    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/author/evangelos-kalogerakis/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
@@ -135,22 +189,10 @@
     <loc>/author/kangxue-yin/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/publication/2022_eccv_vdecor/</loc>
-    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
+    <loc>/publication/2022_eccv_mvdecor/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/or-litany/</loc>
-    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/subhransu-maji/</loc>
@@ -174,9 +216,6 @@
     <loc>/publication/2022_siggraph_ase/</loc>
     <lastmod>2022-07-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/jonathan-tremblay/</loc>
-    <lastmod>2022-07-02T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/lina-halper/</loc>
     <lastmod>2022-07-02T11:23:59-04:00</lastmod>
   </url><url>
@@ -187,9 +226,6 @@
     <lastmod>2022-07-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/thomas-muller/</loc>
-    <lastmod>2022-07-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/towaki-takikawa/</loc>
     <lastmod>2022-07-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_siggraph_variable_bitrate/</loc>
@@ -381,9 +417,6 @@
     <loc>/author/despoina-paschalidou/</loc>
     <lastmod>2021-11-01T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/maria-shugrina/</loc>
-    <lastmod>2021-11-01T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/neurips_2021_deep_marching_tetrahedra/</loc>
     <lastmod>2021-11-01T11:23:58-04:00</lastmod>
   </url><url>
@@ -402,13 +435,7 @@
     <loc>/publication/neurips_2021_ultrahyperbolic/</loc>
     <lastmod>2021-10-31T10:22:59-04:00</lastmod>
   </url><url>
-    <loc>/author/clement-fuji-tsang/</loc>
-    <lastmod>2021-10-31T10:22:58-04:00</lastmod>
-  </url><url>
     <loc>/publication/neurips_2021_dibr/</loc>
-    <lastmod>2021-10-31T10:22:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/joey-litalien/</loc>
     <lastmod>2021-10-31T10:22:58-04:00</lastmod>
   </url><url>
     <loc>/author/zian-wang/</loc>
@@ -514,9 +541,6 @@
     <lastmod>2021-07-12T10:22:59-03:00</lastmod>
   </url><url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2021-04-15T10:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/charles-loop/</loc>
     <lastmod>2021-04-15T10:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/datasetgan/</loc>
@@ -627,9 +651,6 @@
     <loc>/author/silvio-savarese/</loc>
     <lastmod>2021-01-15T10:21:59-04:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2020-10-15T01:33:07-04:00</lastmod>
-  </url><url>
     <loc>/tag/computer-graphics/</loc>
     <lastmod>2020-10-15T01:33:07-04:00</lastmod>
   </url><url>
@@ -643,9 +664,6 @@
     <lastmod>2020-10-15T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/category/robotics/</loc>
-    <lastmod>2020-10-15T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2020-10-15T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/publication/unicon/</loc>

@@ -5,7 +5,7 @@
     <link>/publication-type/1/</link>
       <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Aug 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Aug 2022 01:33:07 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>1</title>
@@ -13,10 +13,19 @@
     </image>
     
     <item>
+      <title>Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research</title>
+      <link>/publication/kaolinwisp/</link>
+      <pubDate>Sun, 14 Aug 2022 01:33:07 -0400</pubDate>
+      <guid>/publication/kaolinwisp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/research-neural-fields-your-way-with-nvidia-kaolin-wisp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MvDeCor: Multi-view Dense Correspondence Learning for Fine-grained 3D Segmentation</title>
-      <link>/publication/2022_eccv_vdecor/</link>
+      <link>/publication/2022_eccv_mvdecor/</link>
       <pubDate>Tue, 02 Aug 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_eccv_vdecor/</guid>
+      <guid>/publication/2022_eccv_mvdecor/</guid>
       <description></description>
     </item>
     

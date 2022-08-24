@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeRF | NVIDIA Toronto AI Lab</title>
+    <link>/category/nerf/</link>
+      <atom:link href="/category/nerf/index.xml" rel="self" type="application/rss+xml" />
+    <description>NeRF</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Aug 2022 01:33:07 -0400</lastBuildDate>
+    <image>
+      <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
+      <title>NeRF</title>
+      <link>/category/nerf/</link>
+    </image>
+    
+    <item>
+      <title>Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research</title>
+      <link>/publication/kaolinwisp/</link>
+      <pubDate>Sun, 14 Aug 2022 01:33:07 -0400</pubDate>
+      <guid>/publication/kaolinwisp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/research-neural-fields-your-way-with-nvidia-kaolin-wisp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
