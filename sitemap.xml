@@ -10,13 +10,9 @@
   </url><url>
     <loc>/author/matan-atzmon/</loc>
   </url><url>
-    <loc>/author/sourav-biswas/</loc>
-  </url><url>
     <loc>/author/tianshi-cao/</loc>
   </url><url>
     <loc>/author/wenzheng-chen/</loc>
-  </url><url>
-    <loc>/author/zhiqin-chen/</loc>
   </url><url>
     <loc>/author/riccardo-de-lutio/</loc>
   </url><url>
@@ -121,15 +117,69 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/daiqing-li/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_neurips_get3d/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/james-lucas/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jose-m.-alvarez/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jun-gao/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/kangxue-yin/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/marc-t.-law/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_neurips_data_collection/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/or-litany/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/rafid-mahmood/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/tianchang-shen/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/wenzheng-chen/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/zan-gojcic/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/zian-wang/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/tag/3d/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/category/3d/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
@@ -159,19 +209,7 @@
     <loc>/category/nerf/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
-  </url><url>
     <loc>/author/or-perel/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
@@ -180,19 +218,22 @@
     <loc>/author/towaki-takikawa/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
+    <loc>/author/angela-dai/</loc>
+    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/david-rozenberszki/</loc>
+    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/evangelos-kalogerakis/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/gopal-sharma/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/kangxue-yin/</loc>
+    <loc>/publication/2022_eccv_3d_segmentation/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_eccv_mvdecor/</loc>
-    <lastmod>2022-08-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/or-litany/</loc>
     <lastmod>2022-08-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/subhransu-maji/</loc>
@@ -240,9 +281,6 @@
     <loc>/author/antonio-torralba/</loc>
     <lastmod>2022-05-22T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/daiqing-li/</loc>
-    <lastmod>2022-05-22T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/karsten-kreis/</loc>
     <lastmod>2022-05-22T11:23:59-04:00</lastmod>
   </url><url>
@@ -259,15 +297,6 @@
     <lastmod>2022-05-21T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/jon-hasselgren/</loc>
-    <lastmod>2022-05-21T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/jun-gao/</loc>
-    <lastmod>2022-05-21T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/tianchang-shen/</loc>
-    <lastmod>2022-05-21T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/wenzheng-chen/</loc>
     <lastmod>2022-05-21T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/adela-barriuso/</loc>
@@ -300,16 +329,10 @@
     <loc>/author/huan-ling/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/james-lucas/</loc>
-    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/joan-bruna/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/jonah-philion/</loc>
-    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/jose-m.-alvarez/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/koki-nagano/</loc>
@@ -318,25 +341,16 @@
     <loc>/author/leonidas-guibas/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/marc-t.-law/</loc>
-    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/matan-atzmon/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_cvpr_nkf/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/rafid-mahmood/</loc>
-    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/sameh-khamis/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/yaron-lipman/</loc>
-    <lastmod>2022-05-20T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/zan-gojcic/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/zhiding-yu/</loc>
@@ -436,9 +450,6 @@
     <lastmod>2021-10-31T10:22:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_dibr/</loc>
-    <lastmod>2021-10-31T10:22:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/zian-wang/</loc>
     <lastmod>2021-10-31T10:22:58-04:00</lastmod>
   </url><url>
     <loc>/author/alex-bie/</loc>
