@@ -14,17 +14,3 @@
     
   </channel>
 </rss>
-author/or-perel/</link>
-    </image>
-    
-    <item>
-      <title>Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research</title>
-      <link>/publication/kaolinwisp/</link>
-      <pubDate>Sun, 14 Aug 2022 01:33:07 -0400</pubDate>
-      <guid>/publication/kaolinwisp/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/research-neural-fields-your-way-with-nvidia-kaolin-wisp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>

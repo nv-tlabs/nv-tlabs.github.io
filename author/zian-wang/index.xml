@@ -14,32 +14,3 @@
     
   </channel>
 </rss>
-uthor/zian-wang/</link>
-    </image>
-    
-    <item>
-      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
-      <link>/publication/2022_neurips_get3d/</link>
-      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_neurips_get3d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</title>
-      <link>/publication/neurips_2021_dibr/</link>
-      <pubDate>Sun, 31 Oct 2021 10:22:58 -0400</pubDate>
-      <guid>/publication/neurips_2021_dibr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting</title>
-      <link>/publication/iccv_2021_inverse_rendering/</link>
-      <pubDate>Tue, 31 Aug 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/iccv_2021_inverse_rendering/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
