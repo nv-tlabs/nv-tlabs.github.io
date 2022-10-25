@@ -123,10 +123,19 @@
     <loc>/publication-type/1/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/arash-vahdat/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/authors/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/daiqing-li/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/francis-williams/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_neurips_genie/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_neurips_get3d/</loc>
@@ -142,6 +151,12 @@
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/kangxue-yin/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/karsten-kreis/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_neurips_lion/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/marc-t.-law/</loc>
@@ -171,7 +186,13 @@
     <loc>/author/tianchang-shen/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
+    <loc>/author/tim-dockhorn/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
     <loc>/author/wenzheng-chen/</loc>
+    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/xiaohui-zeng/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/zan-gojcic/</loc>
@@ -249,9 +270,6 @@
     <loc>/author/derek-liu/</loc>
     <lastmod>2022-07-02T11:24:59-04:00</lastmod>
   </url><url>
-    <loc>/author/francis-williams/</loc>
-    <lastmod>2022-07-02T11:24:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/2022_siggraph_smooth_neural_functions/</loc>
     <lastmod>2022-07-02T11:24:59-04:00</lastmod>
   </url><url>
@@ -283,9 +301,6 @@
     <lastmod>2022-07-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/antonio-torralba/</loc>
-    <lastmod>2022-05-22T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/karsten-kreis/</loc>
     <lastmod>2022-05-22T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_cvpr_polymorphic_gan/</loc>
@@ -363,13 +378,7 @@
     <loc>/author/zhiqin-chen/</loc>
     <lastmod>2022-05-20T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/arash-vahdat/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/2022_langevin_diffusion/</loc>
-    <lastmod>2022-02-02T11:24:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/tim-dockhorn/</loc>
     <lastmod>2022-02-02T11:24:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_trilemma/</loc>

@@ -14,3 +14,41 @@
     
   </channel>
 </rss>
+towaki-takikawa/</link>
+    </image>
+    
+    <item>
+      <title>Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research</title>
+      <link>/publication/kaolinwisp/</link>
+      <pubDate>Sun, 14 Aug 2022 01:33:07 -0400</pubDate>
+      <guid>/publication/kaolinwisp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/research-neural-fields-your-way-with-nvidia-kaolin-wisp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variable Bitrate Neural Fields</title>
+      <link>/publication/2022_siggraph_variable_bitrate/</link>
+      <pubDate>Sat, 02 Jul 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_siggraph_variable_bitrate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces</title>
+      <link>/publication/nglod/</link>
+      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/nglod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated-SCNN Gated Shape CNNs for Semantic Segmentation</title>
+      <link>/publication/gscnn/</link>
+      <pubDate>Tue, 16 Jul 2019 10:21:59 -0400</pubDate>
+      <guid>/publication/gscnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

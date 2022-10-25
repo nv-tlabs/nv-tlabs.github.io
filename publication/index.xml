@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>GENIE: Higher-Order Denoising Diffusion Solvers</title>
+      <link>/publication/2022_neurips_genie/</link>
+      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_neurips_genie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
       <link>/publication/2022_neurips_get3d/</link>
       <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
       <guid>/publication/2022_neurips_get3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LION: Latent Point Diffusion Models for 3D Shape Generation</title>
+      <link>/publication/2022_neurips_lion/</link>
+      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_neurips_lion/</guid>
       <description></description>
     </item>
     

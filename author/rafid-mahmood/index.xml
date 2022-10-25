@@ -5,36 +5,12 @@
     <link>/author/rafid-mahmood/</link>
       <atom:link href="/author/rafid-mahmood/index.xml" rel="self" type="application/rss+xml" />
     <description>Rafid Mahmood</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Rafid Mahmood</title>
       <link>/author/rafid-mahmood/</link>
     </image>
-    
-    <item>
-      <title>Optimizing data collection for machine learning</title>
-      <link>/publication/2022_neurips_data_collection/</link>
-      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_neurips_data_collection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>How Much More Data Do I Need? Estimating Requirements for Downstream Tasks</title>
-      <link>/publication/2022_cvpr_how_much_data/</link>
-      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_cvpr_how_much_data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low-Budget Active Learning via Wasserstein Distance: An Integer Programming Approach</title>
-      <link>/publication/2022_iclr_active_learning/</link>
-      <pubDate>Wed, 02 Feb 2022 10:23:59 -0400</pubDate>
-      <guid>/publication/2022_iclr_active_learning/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>

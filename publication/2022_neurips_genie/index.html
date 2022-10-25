@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Denoising diffusion models (DDMs) have emerged as a powerful class of generative models. A forward diffusion process slowly perturbs the data, while a deep model learns to gradually denoise. Synthesis amounts to solving a differential equation (DE) defined by the learnt model. Solving the DE requires slow iterative solvers for high-quality generation. In this work, we propose Higher-Order Denoising Diffusion Solvers (GENIE): Based on truncated Taylor methods, we derive a novel higher-order solver that significantly accelerates synthesis. Our solver relies on higher-order gradients of the perturbed data distribution, that is, higher-order score functions. In practice, only Jacobian-vector products (JVPs) are required and we propose to extract them from the first-order score network via automatic differentiation. We then distill the JVPs into a separate neural network that allows us to efficiently compute the necessary higher-order terms for our novel sampler during synthesis. We only need to train a small additional head on top of the first-order score network. We validate GENIE on multiple image generation benchmarks and demonstrate that GENIE outperforms all previous solvers. Unlike recent methods that fundamentally alter the generation process in DDMs, our GENIE solves the true generative DE and still enables applications such as encoding and guided sampling.">
 
   
-  <link rel="alternate" hreflang="en-us" href="/authors/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2022_neurips_genie/">
 
   
 
@@ -252,14 +252,12 @@
   
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="NVIDIA Toronto AI Lab">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/authors/">
+  <link rel="canonical" href="/publication/2022_neurips_genie/">
 
   
   
@@ -269,35 +267,84 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="NVIDIA Toronto AI Lab">
-  <meta property="og:url" content="/authors/">
-  <meta property="og:title" content="Authors | NVIDIA Toronto AI Lab">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/2022_neurips_genie/">
+  <meta property="og:title" content="GENIE: Higher-Order Denoising Diffusion Solvers | NVIDIA Toronto AI Lab">
+  <meta property="og:description" content="Denoising diffusion models (DDMs) have emerged as a powerful class of generative models. A forward diffusion process slowly perturbs the data, while a deep model learns to gradually denoise. Synthesis amounts to solving a differential equation (DE) defined by the learnt model. Solving the DE requires slow iterative solvers for high-quality generation. In this work, we propose Higher-Order Denoising Diffusion Solvers (GENIE): Based on truncated Taylor methods, we derive a novel higher-order solver that significantly accelerates synthesis. Our solver relies on higher-order gradients of the perturbed data distribution, that is, higher-order score functions. In practice, only Jacobian-vector products (JVPs) are required and we propose to extract them from the first-order score network via automatic differentiation. We then distill the JVPs into a separate neural network that allows us to efficiently compute the necessary higher-order terms for our novel sampler during synthesis. We only need to train a small additional head on top of the first-order score network. We validate GENIE on multiple image generation benchmarks and demonstrate that GENIE outperforms all previous solvers. Unlike recent methods that fundamentally alter the generation process in DDMs, our GENIE solves the true generative DE and still enables applications such as encoding and guided sampling."><meta property="og:image" content="/publication/2022_neurips_genie/featured.png">
+  <meta property="twitter:image" content="/publication/2022_neurips_genie/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-10-02T11:23:59-04:00">
+    
+      <meta property="article:published_time" content="2022-10-02T11:23:59-04:00">
+    
+    <meta property="article:modified_time" content="2022-10-02T11:23:59-04:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/2022_neurips_genie/"
+  },
+  "headline": "GENIE: Higher-Order Denoising Diffusion Solvers",
+  
+  "image": [
+    "/publication/2022_neurips_genie/featured.png"
+  ],
+  
+  "datePublished": "2022-10-02T11:23:59-04:00",
+  "dateModified": "2022-10-02T11:23:59-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Tim Dockhorn"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "NVIDIA Toronto AI Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "Denoising diffusion models (DDMs) have emerged as a powerful class of generative models. A forward diffusion process slowly perturbs the data, while a deep model learns to gradually denoise. Synthesis amounts to solving a differential equation (DE) defined by the learnt model. Solving the DE requires slow iterative solvers for high-quality generation. In this work, we propose Higher-Order Denoising Diffusion Solvers (GENIE): Based on truncated Taylor methods, we derive a novel higher-order solver that significantly accelerates synthesis. Our solver relies on higher-order gradients of the perturbed data distribution, that is, higher-order score functions. In practice, only Jacobian-vector products (JVPs) are required and we propose to extract them from the first-order score network via automatic differentiation. We then distill the JVPs into a separate neural network that allows us to efficiently compute the necessary higher-order terms for our novel sampler during synthesis. We only need to train a small additional head on top of the first-order score network. We validate GENIE on multiple image generation benchmarks and demonstrate that GENIE outperforms all previous solvers. Unlike recent methods that fundamentally alter the generation process in DDMs, our GENIE solves the true generative DE and still enables applications such as encoding and guided sampling."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>Authors | NVIDIA Toronto AI Lab</title>
+  <title>GENIE: Higher-Order Denoising Diffusion Solvers | NVIDIA Toronto AI Lab</title>
 
 </head>
 
@@ -694,6 +741,89 @@
 
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>GENIE: Higher-Order Denoising Diffusion Solvers</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/tim-dockhorn/">Tim Dockhorn</a></span>, <span ><a href="/author/arash-vahdat/">Arash Vahdat</a></span>, <span ><a href="/author/karsten-kreis/">Karsten Kreis</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    October 2022
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -703,80 +833,258 @@
 
 
 
-
-
-
-
-
-
+  
+    
   
 
-  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2210.05475" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/nv-tlabs/GENIE" target="_blank" rel="noopener">
+  Code
+</a>
 
-  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://nv-tlabs.github.io/GENIE/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Denoising diffusion models (DDMs) have emerged as a powerful class of generative models. A forward diffusion process slowly perturbs the data, while a deep model learns to gradually denoise. Synthesis amounts to solving a differential equation (DE) defined by the learnt model. Solving the DE requires slow iterative solvers for high-quality generation. In this work, we propose Higher-Order Denoising Diffusion Solvers (GENIE): Based on truncated Taylor methods, we derive a novel higher-order solver that significantly accelerates synthesis. Our solver relies on higher-order gradients of the perturbed data distribution, that is, higher-order score functions. In practice, only Jacobian-vector products (JVPs) are required and we propose to extract them from the first-order score network via automatic differentiation. We then distill the JVPs into a separate neural network that allows us to efficiently compute the necessary higher-order terms for our novel sampler during synthesis. We only need to train a small additional head on top of the first-order score network. We validate GENIE on multiple image generation benchmarks and demonstrate that GENIE outperforms all previous solvers. Unlike recent methods that fundamentally alter the generation process in DDMs, our GENIE solves the true generative DE and still enables applications such as encoding and guided sampling.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">NeurIPS 2022</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="/author/kevin-xie/">Kevin Xie</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/2022_neurips_genie/&amp;text=GENIE:%20Higher-Order%20Denoising%20Diffusion%20Solvers" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/xingguang-yan/">Xingguang Yan</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/2022_neurips_genie/&amp;t=GENIE:%20Higher-Order%20Denoising%20Diffusion%20Solvers" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/junlin-yang/">Junlin Yang</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=GENIE:%20Higher-Order%20Denoising%20Diffusion%20Solvers&amp;body=/publication/2022_neurips_genie/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/kangxue-yin/">Kangxue Yin</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/2022_neurips_genie/&amp;title=GENIE:%20Higher-Order%20Denoising%20Diffusion%20Solvers" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/xiaohui-zeng/">Xiaohui Zeng</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=GENIE:%20Higher-Order%20Denoising%20Diffusion%20Solvers%20/publication/2022_neurips_genie/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="/author/dongsu-zhang/">Dongsu Zhang</a></li>
-    
       
-      <li><a href="/author/alex-zhang/">Alex Zhang</a></li>
-    
       
-      <li><a href="/author/haotian-zhang/">Haotian Zhang</a></li>
-    
+        
       
-      <li><a href="/author/siyan-zhao/">Siyan Zhao</a></li>
-    
       
-      <li><a href="/author/arash-vahdat/">Arash Vahdat</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/2022_neurips_genie/&amp;title=GENIE:%20Higher-Order%20Denoising%20Diffusion%20Solvers" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
+  
     
-    <li class="page-item"><a class="page-link" href="/authors/page/5/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/7/">&raquo;</a></li>
-    
-  </ul>
-</nav>
 
 
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/2022_langevin_diffusion/">Score-Based Generative Modeling with Critically-Damped Langevin Diffusion</a></li>
+      
+      <li><a href="/publication/2022_neurips_lion/">LION: Latent Point Diffusion Models for 3D Shape Generation</a></li>
+      
+      <li><a href="/publication/2022_trilemma/">Tackling the Generative Learning Trilemma with Denoising Diffusion GANs</a></li>
+      
+      <li><a href="/publication/neurips_2021_lsgm/">Score-based Generative Modeling in Latent Space</a></li>
+      
+      <li><a href="/publication/neurips_2021_differentially_private_generative/">Don&#39;t Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
 </div>
 
       

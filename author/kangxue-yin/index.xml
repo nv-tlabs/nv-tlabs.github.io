@@ -5,68 +5,12 @@
     <link>/author/kangxue-yin/</link>
       <atom:link href="/author/kangxue-yin/index.xml" rel="self" type="application/rss+xml" />
     <description>Kangxue Yin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Kangxue Yin</title>
       <link>/author/kangxue-yin/</link>
     </image>
-    
-    <item>
-      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
-      <link>/publication/2022_neurips_get3d/</link>
-      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_neurips_get3d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MvDeCor: Multi-view Dense Correspondence Learning for Fine-grained 3D Segmentation</title>
-      <link>/publication/2022_eccv_mvdecor/</link>
-      <pubDate>Tue, 02 Aug 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_eccv_mvdecor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis</title>
-      <link>/publication/2022_cvpr_auv/</link>
-      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_cvpr_auv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis</title>
-      <link>/publication/neurips_2021_deep_marching_tetrahedra/</link>
-      <pubDate>Mon, 01 Nov 2021 11:23:58 -0400</pubDate>
-      <guid>/publication/neurips_2021_deep_marching_tetrahedra/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>3DStyleNet: Creating 3D Shapes with Geometric and Texture Style Variations</title>
-      <link>/publication/iccv_2021_3dstylenet/</link>
-      <pubDate>Mon, 30 Aug 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/iccv_2021_3dstylenet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort</title>
-      <link>/publication/datasetgan/</link>
-      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/datasetgan/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces</title>
-      <link>/publication/nglod/</link>
-      <pubDate>Thu, 15 Apr 2021 10:21:59 -0400</pubDate>
-      <guid>/publication/nglod/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
