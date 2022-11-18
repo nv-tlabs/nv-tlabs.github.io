@@ -5,12 +5,20 @@
     <link>/author/hassan-abu-alhaija/</link>
       <atom:link href="/author/hassan-abu-alhaija/index.xml" rel="self" type="application/rss+xml" />
     <description>Hassan Abu Alhaija</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 11:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Hassan Abu Alhaija</title>
       <link>/author/hassan-abu-alhaija/</link>
     </image>
+    
+    <item>
+      <title>XDGAN: Multi-Modal 3D Shape Generation in 2D Space</title>
+      <link>/publication/2022_bmvc_xdgan/</link>
+      <pubDate>Sun, 02 Oct 2022 11:21:59 -0400</pubDate>
+      <guid>/publication/2022_bmvc_xdgan/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

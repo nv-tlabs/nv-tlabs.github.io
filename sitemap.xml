@@ -125,12 +125,36 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
   </url><url>
-    <loc>/author/arash-vahdat/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/publication/omniverseaitoybox/</loc>
+    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
+    <lastmod>2022-11-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/chin-ying-li/</loc>
+    <lastmod>2022-11-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/masha-shugrina/</loc>
+    <lastmod>2022-11-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_siggraph_asia_-brushstroke/</loc>
+    <lastmod>2022-11-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2022-11-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/arash-vahdat/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/daiqing-li/</loc>
@@ -166,25 +190,13 @@
     <loc>/author/marc-t.-law/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/publication/2022_neurips_data_collection/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/or-litany/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/rafid-mahmood/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/tianchang-shen/</loc>
@@ -204,6 +216,18 @@
   </url><url>
     <loc>/author/zian-wang/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/alara-dirik/</loc>
+    <lastmod>2022-10-02T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/andre-knorig/</loc>
+    <lastmod>2022-10-02T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/hassan-abu-alhaija/</loc>
+    <lastmod>2022-10-02T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_bmvc_xdgan/</loc>
+    <lastmod>2022-10-02T11:21:59-04:00</lastmod>
   </url><url>
     <loc>/tag/3d/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
@@ -236,9 +260,6 @@
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/category/nerf/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/publication/omniverseaitoybox/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/author/or-perel/</loc>

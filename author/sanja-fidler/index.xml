@@ -5,12 +5,20 @@
     <link>/author/sanja-fidler/</link>
       <atom:link href="/author/sanja-fidler/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanja Fidler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Sanja Fidler</title>
       <link>/author/sanja-fidler/</link>
     </image>
+    
+    <item>
+      <title>Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools</title>
+      <link>/publication/2022_siggraph_asia_-brushstroke/</link>
+      <pubDate>Wed, 02 Nov 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_siggraph_asia_-brushstroke/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
@@ -33,6 +41,14 @@
       <link>/publication/2022_neurips_data_collection/</link>
       <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
       <guid>/publication/2022_neurips_data_collection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XDGAN: Multi-Modal 3D Shape Generation in 2D Space</title>
+      <link>/publication/2022_bmvc_xdgan/</link>
+      <pubDate>Sun, 02 Oct 2022 11:21:59 -0400</pubDate>
+      <guid>/publication/2022_bmvc_xdgan/</guid>
       <description></description>
     </item>
     

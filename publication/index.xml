@@ -5,12 +5,30 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 01:33:07 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Omniverse AI Toybox</title>
+      <link>/publication/omniverseaitoybox/</link>
+      <pubDate>Mon, 14 Nov 2022 01:33:07 -0400</pubDate>
+      <guid>/publication/omniverseaitoybox/</guid>
+      <description>&lt;p&gt;NVIDIA is using AI to improve the Content Creation process, giving the power to create virtual worlds to creators everywhere. AI Toybox is a collection of Omniverse extensions showcasing state of the art NVIDIA research aimed at empowering content creators.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.omniverse.nvidia.com/prod_extensions/prod_extensions/ext_aitoybox.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools</title>
+      <link>/publication/2022_siggraph_asia_-brushstroke/</link>
+      <pubDate>Wed, 02 Nov 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_siggraph_asia_-brushstroke/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GENIE: Higher-Order Denoising Diffusion Solvers</title>
@@ -45,21 +63,19 @@
     </item>
     
     <item>
+      <title>XDGAN: Multi-Modal 3D Shape Generation in 2D Space</title>
+      <link>/publication/2022_bmvc_xdgan/</link>
+      <pubDate>Sun, 02 Oct 2022 11:21:59 -0400</pubDate>
+      <guid>/publication/2022_bmvc_xdgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research</title>
       <link>/publication/kaolinwisp/</link>
       <pubDate>Sun, 14 Aug 2022 01:33:07 -0400</pubDate>
       <guid>/publication/kaolinwisp/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://developer.nvidia.com/blog/research-neural-fields-your-way-with-nvidia-kaolin-wisp/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Omniverse AI Toybox</title>
-      <link>/publication/omniverseaitoybox/</link>
-      <pubDate>Sun, 14 Aug 2022 01:33:07 -0400</pubDate>
-      <guid>/publication/omniverseaitoybox/</guid>
-      <description>&lt;p&gt;NVIDIA is using AI to improve the Content Creation process, giving the power to create virtual worlds to creators everywhere. AI Toybox is a collection of Omniverse extensions showcasing state of the art NVIDIA research aimed at empowering content creators.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.omniverse.nvidia.com/prod_extensions/prod_extensions/ext_aitoybox.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
