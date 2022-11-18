@@ -54,6 +54,16 @@
     </item>
     
     <item>
+      <title>Omniverse AI Toybox</title>
+      <link>/publication/omniverseaitoybox/</link>
+      <pubDate>Sun, 14 Aug 2022 01:33:07 -0400</pubDate>
+      <guid>/publication/omniverseaitoybox/</guid>
+      <description>&lt;p&gt;NVIDIA is using AI to improve the Content Creation process, giving the power to create virtual worlds to creators everywhere. AI Toybox is a collection of Omniverse extensions showcasing state of the art NVIDIA research aimed at empowering content creators.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.omniverse.nvidia.com/prod_extensions/prod_extensions/ext_aitoybox.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;News blogpost&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Language-Grounded Indoor 3D Semantic Segmentation in the Wild</title>
       <link>/publication/2022_eccv_3d_segmentation/</link>
       <pubDate>Tue, 02 Aug 2022 11:23:59 -0400</pubDate>
