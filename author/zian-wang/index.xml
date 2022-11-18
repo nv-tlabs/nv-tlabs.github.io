@@ -5,12 +5,36 @@
     <link>/author/zian-wang/</link>
       <atom:link href="/author/zian-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Zian Wang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Zian Wang</title>
       <link>/author/zian-wang/</link>
     </image>
+    
+    <item>
+      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
+      <link>/publication/2022_neurips_get3d/</link>
+      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_neurips_get3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIB-R&#43;&#43;: Learning to Predict Lighting and Material with a Hybrid Differentiable Renderer</title>
+      <link>/publication/neurips_2021_dibr/</link>
+      <pubDate>Sun, 31 Oct 2021 10:22:58 -0400</pubDate>
+      <guid>/publication/neurips_2021_dibr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Indoor Inverse Rendering with 3D Spatially-Varying Lighting</title>
+      <link>/publication/iccv_2021_inverse_rendering/</link>
+      <pubDate>Tue, 31 Aug 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/iccv_2021_inverse_rendering/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
