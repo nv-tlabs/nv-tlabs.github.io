@@ -125,22 +125,55 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/chen-hsuan-lin/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jun-gao/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/karsten-kreis/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/luming-tang/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2022_arxiv_magic3d/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/ming-yu-liu/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/sanja-fidler/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/towaki-takikawa/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/tsung-yi-lin/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/xiaohui-zeng/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/xun-huang/</loc>
+    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
   </url><url>
     <loc>/publication/omniverseaitoybox/</loc>
     <lastmod>2022-11-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-11-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-11-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/chin-ying-li/</loc>
     <lastmod>2022-11-02T11:23:59-04:00</lastmod>
@@ -149,9 +182,6 @@
     <lastmod>2022-11-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_siggraph_asia_-brushstroke/</loc>
-    <lastmod>2022-11-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/sanja-fidler/</loc>
     <lastmod>2022-11-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/arash-vahdat/</loc>
@@ -175,13 +205,7 @@
     <loc>/author/jose-m.-alvarez/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
-    <loc>/author/jun-gao/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
     <loc>/author/kangxue-yin/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/karsten-kreis/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_neurips_lion/</loc>
@@ -206,9 +230,6 @@
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/wenzheng-chen/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/xiaohui-zeng/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/zan-gojcic/</loc>
@@ -266,9 +287,6 @@
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2022-08-14T01:33:07-04:00</lastmod>
-  </url><url>
-    <loc>/author/towaki-takikawa/</loc>
     <lastmod>2022-08-14T01:33:07-04:00</lastmod>
   </url><url>
     <loc>/author/angela-dai/</loc>
@@ -473,9 +491,6 @@
     <lastmod>2021-11-01T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/neurips_2021_deep_marching_tetrahedra/</loc>
-    <lastmod>2021-11-01T11:23:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/ming-yu-liu/</loc>
     <lastmod>2021-11-01T11:23:58-04:00</lastmod>
   </url><url>
     <loc>/author/jan-kautz/</loc>

@@ -5,12 +5,20 @@
     <link>/author/sanja-fidler/</link>
       <atom:link href="/author/sanja-fidler/index.xml" rel="self" type="application/rss+xml" />
     <description>Sanja Fidler</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Nov 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 11:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Sanja Fidler</title>
       <link>/author/sanja-fidler/</link>
     </image>
+    
+    <item>
+      <title>Magic3D: High-Resolution Text-to-3D Content Creation</title>
+      <link>/publication/2022_arxiv_magic3d/</link>
+      <pubDate>Sat, 19 Nov 2022 11:21:59 -0400</pubDate>
+      <guid>/publication/2022_arxiv_magic3d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools</title>

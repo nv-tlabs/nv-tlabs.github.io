@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Nov 2022 01:33:07 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 11:21:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Magic3D: High-Resolution Text-to-3D Content Creation</title>
+      <link>/publication/2022_arxiv_magic3d/</link>
+      <pubDate>Sat, 19 Nov 2022 11:21:59 -0400</pubDate>
+      <guid>/publication/2022_arxiv_magic3d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Omniverse AI Toybox</title>
