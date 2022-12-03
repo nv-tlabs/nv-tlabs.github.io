@@ -5,20 +5,12 @@
     <link>/author/davis-rempe/</link>
       <atom:link href="/author/davis-rempe/index.xml" rel="self" type="application/rss+xml" />
     <description>Davis Rempe</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 11:23:59 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Davis Rempe</title>
       <link>/author/davis-rempe/</link>
     </image>
-    
-    <item>
-      <title>Generating Useful Accident-Prone Driving Scenarios via a Learned Traffic Prior</title>
-      <link>/publication/2022_cvpr_accident_prone/</link>
-      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
-      <guid>/publication/2022_cvpr_accident_prone/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
