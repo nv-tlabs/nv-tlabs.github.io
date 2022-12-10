@@ -5,12 +5,20 @@
     <link>/author/matan-atzmon/</link>
       <atom:link href="/author/matan-atzmon/index.xml" rel="self" type="application/rss+xml" />
     <description>Matan Atzmon</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 May 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Matan Atzmon</title>
       <link>/author/matan-atzmon/</link>
     </image>
+    
+    <item>
+      <title>Frame Averaging for Equivariant Shape Space Learning</title>
+      <link>/publication/2022_cvpr_equivarient/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_equivarient/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
