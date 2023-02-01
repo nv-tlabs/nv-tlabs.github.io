@@ -5,12 +5,20 @@
     <link>/author/jonas-schult/</link>
       <atom:link href="/author/jonas-schult/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonas Schult</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 30 Oct 2021 10:21:58 -0400</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 11:20:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Jonas Schult</title>
       <link>/author/jonas-schult/</link>
     </image>
+    
+    <item>
+      <title>Mask3D: Mask Transformer for 3D Instance Segmentation</title>
+      <link>/publication/2023_icra_mask3d/</link>
+      <pubDate>Sun, 01 Jan 2023 11:20:59 -0400</pubDate>
+      <guid>/publication/2023_icra_mask3d/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mix3D: Out-of-Context Data Augmentation for 3D Scenes</title>

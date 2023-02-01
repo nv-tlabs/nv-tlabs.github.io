@@ -34,10 +34,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Modern 3D semantic instance segmentation approaches predominantly rely on specialized voting mechanisms followed by carefully designed geometric clustering techniques. Building on the successes of recent Transformer-based methods for object detection and image segmentation, we propose the first Transformer-based approach for 3D semantic instance segmentation. We show that we can leverage generic Transformer building blocks to directly predict instance masks from 3D point clouds. In our model called Mask3D each object instance is represented as an instance query. Using Transformer decoders, the instance queries are learned by iteratively attending to point cloud features at multiple scales. Combined with point features, the instance queries directly yield all instance masks in parallel. Mask3D has several advantages over current state-of-the-art approaches, since it neither relies on (1) voting schemes which require hand-selected geometric properties (such as centers) nor (2) geometric grouping mechanisms requiring manually-tuned hyper-parameters (e.g. radii) and (3) enables a loss that directly optimizes instance masks. Mask3D sets a new state-of-the-art on ScanNet test (&#43;6.2 mAP), S3DIS 6-fold (&#43;10.1 mAP), STPLS3D (&#43;11.2 mAP) and ScanNet200 test (&#43;12.4 mAP).">
 
   
-  <link rel="alternate" hreflang="en-us" href="/publication-type/1/">
+  <link rel="alternate" hreflang="en-us" href="/publication/2023_icra_mask3d/">
 
   
 
@@ -252,14 +252,12 @@
   
 
   
-  <link rel="alternate" href="/publication-type/1/index.xml" type="application/rss+xml" title="NVIDIA Toronto AI Lab">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/publication-type/1/">
+  <link rel="canonical" href="/publication/2023_icra_mask3d/">
 
   
   
@@ -269,35 +267,84 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="NVIDIA Toronto AI Lab">
-  <meta property="og:url" content="/publication-type/1/">
-  <meta property="og:title" content="1 | NVIDIA Toronto AI Lab">
-  <meta property="og:description" content=""><meta property="og:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="/publication/2023_icra_mask3d/">
+  <meta property="og:title" content="Mask3D: Mask Transformer for 3D Instance Segmentation | NVIDIA Toronto AI Lab">
+  <meta property="og:description" content="Modern 3D semantic instance segmentation approaches predominantly rely on specialized voting mechanisms followed by carefully designed geometric clustering techniques. Building on the successes of recent Transformer-based methods for object detection and image segmentation, we propose the first Transformer-based approach for 3D semantic instance segmentation. We show that we can leverage generic Transformer building blocks to directly predict instance masks from 3D point clouds. In our model called Mask3D each object instance is represented as an instance query. Using Transformer decoders, the instance queries are learned by iteratively attending to point cloud features at multiple scales. Combined with point features, the instance queries directly yield all instance masks in parallel. Mask3D has several advantages over current state-of-the-art approaches, since it neither relies on (1) voting schemes which require hand-selected geometric properties (such as centers) nor (2) geometric grouping mechanisms requiring manually-tuned hyper-parameters (e.g. radii) and (3) enables a loss that directly optimizes instance masks. Mask3D sets a new state-of-the-art on ScanNet test (&#43;6.2 mAP), S3DIS 6-fold (&#43;10.1 mAP), STPLS3D (&#43;11.2 mAP) and ScanNet200 test (&#43;12.4 mAP)."><meta property="og:image" content="/publication/2023_icra_mask3d/featured.png">
+  <meta property="twitter:image" content="/publication/2023_icra_mask3d/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-01-01T11:20:59-04:00">
+    
+      <meta property="article:published_time" content="2023-01-01T11:20:59-04:00">
+    
+    <meta property="article:modified_time" content="2023-01-01T11:20:59-04:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/publication/2023_icra_mask3d/"
+  },
+  "headline": "Mask3D: Mask Transformer for 3D Instance Segmentation",
+  
+  "image": [
+    "/publication/2023_icra_mask3d/featured.png"
+  ],
+  
+  "datePublished": "2023-01-01T11:20:59-04:00",
+  "dateModified": "2023-01-01T11:20:59-04:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Jonas Schult"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "NVIDIA Toronto AI Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_192x192_fit_lanczos_2.png"
+    }
+  },
+  "description": "Modern 3D semantic instance segmentation approaches predominantly rely on specialized voting mechanisms followed by carefully designed geometric clustering techniques. Building on the successes of recent Transformer-based methods for object detection and image segmentation, we propose the first Transformer-based approach for 3D semantic instance segmentation. We show that we can leverage generic Transformer building blocks to directly predict instance masks from 3D point clouds. In our model called Mask3D each object instance is represented as an instance query. Using Transformer decoders, the instance queries are learned by iteratively attending to point cloud features at multiple scales. Combined with point features, the instance queries directly yield all instance masks in parallel. Mask3D has several advantages over current state-of-the-art approaches, since it neither relies on (1) voting schemes which require hand-selected geometric properties (such as centers) nor (2) geometric grouping mechanisms requiring manually-tuned hyper-parameters (e.g. radii) and (3) enables a loss that directly optimizes instance masks. Mask3D sets a new state-of-the-art on ScanNet test (+6.2 mAP), S3DIS 6-fold (+10.1 mAP), STPLS3D (+11.2 mAP) and ScanNet200 test (+12.4 mAP)."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>1 | NVIDIA Toronto AI Lab</title>
+  <title>Mask3D: Mask Transformer for 3D Instance Segmentation | NVIDIA Toronto AI Lab</title>
 
 </head>
 
@@ -694,6 +741,89 @@
 
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Mask3D: Mask Transformer for 3D Instance Segmentation</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span ><a href="/author/jonas-schult/">Jonas Schult</a></span>, <span ><a href="/author/francis-engelmann/">Francis Engelmann</a></span>, <span ><a href="/author/alexander-hermans/">Alexander Hermans</a></span>, <span ><a href="/author/or-litany/">Or Litany</a></span>, <span ><a href="/author/siyu-tang/">Siyu Tang</a></span>, <span ><a href="/author/bastian-leibe/">Bastian Leibe</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 2023
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -703,165 +833,284 @@
 
 
 
-
-
-
-
+  
+    
   
 
-  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2210.03105" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>1</h1>
+<a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/JonasSchult/Mask3D" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://jonasschult.github.io/Mask3D/" target="_blank" rel="noopener">
+  Project
+</a>
+
+
+
+
+
+
+
 
   
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1" href="https://francisengelmann.github.io/mask3d/" target="_blank" rel="noopener">
+  Source Document
+</a>
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Modern 3D semantic instance segmentation approaches predominantly rely on specialized voting mechanisms followed by carefully designed geometric clustering techniques. Building on the successes of recent Transformer-based methods for object detection and image segmentation, we propose the first Transformer-based approach for 3D semantic instance segmentation. We show that we can leverage generic Transformer building blocks to directly predict instance masks from 3D point clouds. In our model called Mask3D each object instance is represented as an instance query. Using Transformer decoders, the instance queries are learned by iteratively attending to point cloud features at multiple scales. Combined with point features, the instance queries directly yield all instance masks in parallel. Mask3D has several advantages over current state-of-the-art approaches, since it neither relies on (1) voting schemes which require hand-selected geometric properties (such as centers) nor (2) geometric grouping mechanisms requiring manually-tuned hyper-parameters (e.g. radii) and (3) enables a loss that directly optimizes instance masks. Mask3D sets a new state-of-the-art on ScanNet test (+6.2 mAP), S3DIS 6-fold (+10.1 mAP), STPLS3D (+11.2 mAP) and ScanNet200 test (+12.4 mAP).</p>
     
-    
-    <div>
-      <h2><a href="/publication/2023_icra_mask3d/" >Mask3D: Mask Transformer for 3D Instance Segmentation</a></h2>
-      <div class="article-style">
-        
-          Modern 3D semantic instance segmentation approaches predominantly rely on specialized voting mechanisms followed by carefully designed geometric clustering techniques. Building on the successes of recent Transformer-based methods for object detection …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2022_arxiv_magic3d/" >Magic3D: High-Resolution Text-to-3D Content Creation</a></h2>
-      <div class="article-style">
-        
-          DreamFusion has recently demonstrated the utility of a pre-trained text-to-image diffusion model to optimize Neural Radiance Fields (NeRF), achieving remarkable text-to-3D synthesis results. However, the method has two inherent limitations: (a) …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/omniverseaitoybox/" >Omniverse AI Toybox</a></h2>
-      <div class="article-style">
-        
-          NVIDIA is using AI to improve the Content Creation process, giving the power to create virtual worlds to creators everywhere. AI Toybox is a collection of Omniverse extensions showcasing state of the art NVIDIA research aimed at empowering content …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2022_siggraph_asia_-brushstroke/" >Neural Brushstroke Engine: Learning a Latent Style Space of Interactive Drawing Tools</a></h2>
-      <div class="article-style">
-        
-          Neural Brushstroke Engine (NeuBE) includes a GAN model that learns to mimic many drawing media styles by learning from unlabeled images. The result is a GAN model that can be directly controlled by user strokes, with style code z corresponding to the …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2022_neurips_genie/" >GENIE: Higher-Order Denoising Diffusion Solvers</a></h2>
-      <div class="article-style">
-        
-          Denoising diffusion models (DDMs) have emerged as a powerful class of generative models. A forward diffusion process slowly perturbs the data, while a deep model learns to gradually denoise. Synthesis amounts to solving a differential equation (DE) …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2022_neurips_get3d/" >GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</a></h2>
-      <div class="article-style">
-        
-          As several industries are moving towards modeling massive 3D virtual worlds, the need for content creation tools that can scale in terms of the quantity, quality, and diversity of 3D content is becoming evident. In our work, we aim to train …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2022_neurips_lion/" >LION: Latent Point Diffusion Models for 3D Shape Generation</a></h2>
-      <div class="article-style">
-        
-          Denoising diffusion models (DDMs) have shown promising results in 3D point cloud synthesis. To advance 3D DDMs and make them useful for digital artists, we require (i) high generation quality, (ii) flexibility for manipulation and applications such …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2022_neurips_data_collection/" >Optimizing data collection for machine learning</a></h2>
-      <div class="article-style">
-        
-          Modern deep learning systems require huge data sets to achieve impressive performance, but there is little guidance on how much or what kind of data to collect. Over-collecting data incurs unnecessary present costs, while under-collecting may incur …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2022_bmvc_xdgan/" >XDGAN: Multi-Modal 3D Shape Generation in 2D Space</a></h2>
-      <div class="article-style">
-        
-          Generative models for 2D images has recently seen tremendous progress in quality, resolution and speed as a result of the efficiency of 2D convolutional architectures. However it is difficult to extend this progress into the 3D domain since most …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/kaolinwisp/" >Kaolin Wisp: A PyTorch Library and Engine for Neural Fields Research</a></h2>
-      <div class="article-style">
-        
-          NVIDIA Kaolin Wisp is a PyTorch library powered by [NVIDIA Kaolin Core](https://nv-tlabs.github.io/publication/kaolin/) to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).
-NVIDIA Kaolin Wisp aims to provide a set of common …
-        
-      </div>
-    </div>
-  
 
-  
-<nav>
-  <ul class="pagination justify-content-center">
     
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
     
-    <li class="page-item"><a class="page-link" href="/publication-type/1/page/2/">&raquo;</a></li>
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">ICRA 2023</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/publication/2023_icra_mask3d/&amp;text=Mask3D:%20Mask%20Transformer%20for%203D%20Instance%20Segmentation" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/publication/2023_icra_mask3d/&amp;t=Mask3D:%20Mask%20Transformer%20for%203D%20Instance%20Segmentation" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Mask3D:%20Mask%20Transformer%20for%203D%20Instance%20Segmentation&amp;body=/publication/2023_icra_mask3d/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/publication/2023_icra_mask3d/&amp;title=Mask3D:%20Mask%20Transformer%20for%203D%20Instance%20Segmentation" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Mask3D:%20Mask%20Transformer%20for%203D%20Instance%20Segmentation%20/publication/2023_icra_mask3d/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=/publication/2023_icra_mask3d/&amp;title=Mask3D:%20Mask%20Transformer%20for%203D%20Instance%20Segmentation" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/3dv_2021_mix3d/">Mix3D: Out-of-Context Data Augmentation for 3D Scenes</a></li>
+      
+      <li><a href="/publication/2022_neurips_get3d/">GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</a></li>
+      
+      <li><a href="/publication/2022_neurips_lion/">LION: Latent Point Diffusion Models for 3D Shape Generation</a></li>
+      
+      <li><a href="/publication/2022_eccv_3d_segmentation/">Language-Grounded Indoor 3D Semantic Segmentation in the Wild</a></li>
+      
+      <li><a href="/publication/2022_eccv_mvdecor/">MvDeCor: Multi-view Dense Correspondence Learning for Fine-grained 3D Segmentation</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
 </div>
 
       

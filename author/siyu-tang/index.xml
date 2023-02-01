@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Francis Engelmann | NVIDIA Toronto AI Lab</title>
-    <link>/author/francis-engelmann/</link>
-      <atom:link href="/author/francis-engelmann/index.xml" rel="self" type="application/rss+xml" />
-    <description>Francis Engelmann</description>
+    <title>Siyu Tang | NVIDIA Toronto AI Lab</title>
+    <link>/author/siyu-tang/</link>
+      <atom:link href="/author/siyu-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Siyu Tang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 11:20:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
-      <title>Francis Engelmann</title>
-      <link>/author/francis-engelmann/</link>
+      <title>Siyu Tang</title>
+      <link>/author/siyu-tang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/2023_icra_mask3d/</link>
       <pubDate>Sun, 01 Jan 2023 11:20:59 -0400</pubDate>
       <guid>/publication/2023_icra_mask3d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mix3D: Out-of-Context Data Augmentation for 3D Scenes</title>
-      <link>/publication/3dv_2021_mix3d/</link>
-      <pubDate>Sat, 30 Oct 2021 10:21:58 -0400</pubDate>
-      <guid>/publication/3dv_2021_mix3d/</guid>
       <description></description>
     </item>
     

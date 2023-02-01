@@ -5,12 +5,44 @@
     <link>/author/zan-gojcic/</link>
       <atom:link href="/author/zan-gojcic/index.xml" rel="self" type="application/rss+xml" />
     <description>Zan Gojcic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 02 Oct 2022 11:23:59 -0400</lastBuildDate>
     <image>
       <url>/images/logo_hu2fe6632db44d28c9b9d53edd3914c1d6_112452_300x300_fit_lanczos_2.png</url>
       <title>Zan Gojcic</title>
       <link>/author/zan-gojcic/</link>
     </image>
+    
+    <item>
+      <title>GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images</title>
+      <link>/publication/2022_neurips_get3d/</link>
+      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_neurips_get3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LION: Latent Point Diffusion Models for 3D Shape Generation</title>
+      <link>/publication/2022_neurips_lion/</link>
+      <pubDate>Sun, 02 Oct 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_neurips_lion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Fields as Learnable Kernels for 3D Reconstruction</title>
+      <link>/publication/2022_cvpr_nkf/</link>
+      <pubDate>Fri, 20 May 2022 11:23:59 -0400</pubDate>
+      <guid>/publication/2022_cvpr_nkf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weakly Supervised Learning of Rigid 3D Scene Flow</title>
+      <link>/publication/cvpr_2021_weakly_supervised_rigid/</link>
+      <pubDate>Wed, 14 Apr 2021 10:21:59 -0400</pubDate>
+      <guid>/publication/cvpr_2021_weakly_supervised_rigid/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

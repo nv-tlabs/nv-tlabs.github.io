@@ -109,10 +109,40 @@
     <loc>/author/siyan-zhao/</loc>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/alexander-hermans/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/bastian-leibe/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/francis-engelmann/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/jonas-schult/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/2023_icra_mask3d/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/or-litany/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
+  </url><url>
+    <loc>/author/siyu-tang/</loc>
+    <lastmod>2023-01-01T11:20:59-04:00</lastmod>
   </url><url>
     <loc>/author/chen-hsuan-lin/</loc>
     <lastmod>2022-11-19T11:21:59-04:00</lastmod>
@@ -130,15 +160,6 @@
     <lastmod>2022-11-19T11:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/ming-yu-liu/</loc>
-    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-11-19T11:21:59-04:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2022-11-19T11:21:59-04:00</lastmod>
   </url><url>
     <loc>/author/sanja-fidler/</loc>
@@ -199,9 +220,6 @@
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/publication/2022_neurips_data_collection/</loc>
-    <lastmod>2022-10-02T11:23:59-04:00</lastmod>
-  </url><url>
-    <loc>/author/or-litany/</loc>
     <lastmod>2022-10-02T11:23:59-04:00</lastmod>
   </url><url>
     <loc>/author/rafid-mahmood/</loc>
@@ -505,15 +523,6 @@
     <lastmod>2021-10-31T10:21:58-04:00</lastmod>
   </url><url>
     <loc>/author/alexey-nekrasov/</loc>
-    <lastmod>2021-10-30T10:21:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/bastian-leibe/</loc>
-    <lastmod>2021-10-30T10:21:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/francis-engelmann/</loc>
-    <lastmod>2021-10-30T10:21:58-04:00</lastmod>
-  </url><url>
-    <loc>/author/jonas-schult/</loc>
     <lastmod>2021-10-30T10:21:58-04:00</lastmod>
   </url><url>
     <loc>/publication/3dv_2021_mix3d/</loc>
